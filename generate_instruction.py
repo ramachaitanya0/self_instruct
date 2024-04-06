@@ -111,7 +111,7 @@ def find_word_in_string(w, s):
 def generate_instruction_following_data(
     output_dir="./",
     seed_tasks_path="./h_&_f_seed_tasks.jsonl",
-    num_instructions_to_generate=20,
+    num_instructions_to_generate=40,
     model_name="gpt-3.5-turbo-instruct",
     num_prompt_instructions=1,
     request_batch_size=2,
