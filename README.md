@@ -1,14 +1,5 @@
 # self_instruct
 
-<<<<<<< HEAD
-/*
- * Portions of this code are derived from [tatsu-lab]'s [stanford_alpaca],
- * which is licensed under the Apache License, Version 2.0.
- * 
- * The full text of the license can be found in the LICENSE file included
- * with this distribution or at [].
- */
-=======
 The aim of this project to create Instruction dataset for health and fitness domain using an idea from self instruct paper. self instruct is  a framework for improving
 the instruction-following capabilities of pretrained language models by bootstrapping off their own generations. 
 
