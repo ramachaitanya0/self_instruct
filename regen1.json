@@ -1,0 +1,863 @@
+[
+    {
+        "instruction": "How can I improve my posture?",
+        "input": "Sitting at a desk all day",
+        "output": "Sitting at a desk all day can lead to poor posture and a range of issues, including back pain and fatigue. Here are some tips to improve posture:\n\n1. Sit Up Straight: Keep your back straight, shoulders back, and feet flat on the floor. Avoid slouching or hunching over your desk.\n\n2. Adjust Your Chair: Keep your hips slightly higher than your knees, and the backrest should support your lower back.\n\n3. Take Breaks: Avoid sitting in one position for an extended period. Take frequent breaks to stand up, stretch, and walk around.\n\n4. Use an Ergonomic Setup: Consider investing in an ergonomic chair or using a back support cushion. Ensure your desk, keyboard, and monitor are at the appropriate height to avoid straining your neck or shoulders.\n\n5. Do Posture Exercises: Incorporate exercises like overhead arm stretches, side bends, and chest stretches into your routine to improve posture.\n\n6. Consider a Standing Desk: Alternating between sitting and standing can help improve posture and reduce back pain.\n\n7. Be Mindful: Be conscious of your posture throughout the day and practice making adjustments as needed.\n\n8. Avoid Crossing Your Legs: Crossing your legs can throw off your posture and put undue pressure on your hips and back. Keep both feet flat on the floor.\n\n9. Strengthen Core Muscles: A strong core can help support your spine and improve posture. Consider adding exercises like planks and bridges to your workout routine.\n\n10. Seek Professional Help: If you experience chronic back pain or your posture doesn't improve with self-help strategies, consider seeking advice from a physical therapist or chiropractor for personalized guidance and treatment options.",
+        "most_similar_instructions": {
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.32,
+            "Can you suggest few techniques of": 0.16666666666666666,
+            "Can you suggest a plan for": 0.16666666666666666,
+            "Can you suggest few easy workouts of": 0.15384615384615383,
+            "can you suggest few food items with high content of": 0.125,
+            "Generate an appropriate subjective title for the following email:": 0.0,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.0,
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.0,
+            "": 0
+        },
+        "avg_similarity_score": 0.10357549857549857
+    },
+    {
+        "instruction": "Can you recommend healthy alternatives to sugary drinks?",
+        "input": "Soda",
+        "output": "Sure! Here are some healthier alternatives to sugary drinks like soda:\n\n1. Infused Water: Add slices of fresh fruit, vegetables, and herbs to a pitcher of water for a refreshing and flavorful drink without added sugar.\n\n2. Herbal Teas: Try herbal teas like peppermint, chamomile, or ginger for a low or no-calorie beverage that provides health benefits.\n\n3. Sparkling Water: Satisfy your craving for carbonation with sparkling water without the added sugar and artificial ingredients found in soda.\n\n4. Homemade Fruit Juice: Make your own fruit juice at home using a juicer or blender, so you know exactly what's in it. You can control the amount of added sugar or even experiment with adding vegetables to your juice for added nutrients.\n\n5. Kombucha: This fermented drink contains beneficial bacteria that can support gut health. It typically has a small amount of added sugar, but it's much lower than soda.\n\n6. Coconut Water: Coconut water is a hydrating, low-calorie, and natural source of electrolytes. Just make sure to choose brands with no added sugar.\n\n7. Low-Fat Milk: Milk is a good source of calcium, vitamin D, and protein. Choose low-fat or fat-free options to limit calorie and sugar intake.\n\n8. Smoothies: Blend your own smoothies at home using whole fruits, vegetables, and a protein source like Greek yogurt or protein powder. Avoid adding extra sugar and keep portions in check.\n\nRemember that while these alternatives may be healthier than soda, they still contain calories and sugar, so it's essential to consume them in moderation as part of a balanced diet.",
+        "most_similar_instructions": {
+            "Can you suggest few techniques of": 0.28571428571428575,
+            "Can you suggest a plan for": 0.28571428571428575,
+            "Can you suggest few easy workouts of": 0.26666666666666666,
+            "can you suggest few food items with high content of": 0.22222222222222224,
+            "How can I improve my posture?": 0.14285714285714288,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.07692307692307691,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.07407407407407407,
+            "Generate an appropriate subjective title for the following email:": 0.0,
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.0,
+            "": 0
+        },
+        "avg_similarity_score": 0.13541717541717543
+    },
+    {
+        "instruction": "Provide suggestions for improving",
+        "input": "mental health",
+        "output": "There are various ways to improve mental health; here are a few suggestions:\n\n1. Practice Mindfulness: Mindfulness involves nonjudgmental awareness of the present moment and can help reduce anxiety, stress, and negative thoughts. You can try mindfulness meditation, yoga, or simply focus on your breath for a few minutes each day.\n\n2. Exercise Regularly: Regular physical activity can help improve mood and reduce symptoms of depression and anxiety. Aim for at least 30 minutes of exercise most days of the week.\n\n3. Get Enough Sleep: Sleep plays a vital role in regulating mood and maintaining overall mental and physical health. Strive for 7-9 hours of quality sleep each night.\n\n4. Connect with Others: Strong and supportive relationships with family and friends can have a positive impact on mental health. Make time for meaningful connections and prioritize healthy communication.\n\n5. Seek Professional Help: If you're struggling with mental health, don't hesitate to seek professional help from a therapist or counselor. They can provide effective strategies and support to improve your well-being.\n\n6. Eat a Balanced Diet: A healthy diet rich in whole and unprocessed foods can help support mental health. Focus on incorporating fruits, vegetables, whole grains, lean proteins, and healthy fats into your meals.\n\n7. Practice Self-Care: It's essential to take care of yourself both physically and mentally. Make time for activities that you enjoy and that help you relax, such as reading, taking a bath, or spending time in nature.\n\nRemember that improving mental health is an ongoing process, and it's essential to be patient with yourself and seek support when needed.",
+        "most_similar_instructions": {
+            "Can you suggest a plan for": 0.2,
+            "Generate an appropriate subjective title for the following email:": 0.15384615384615383,
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.09523809523809523,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.0909090909090909,
+            "Can you recommend healthy alternatives to sugary drinks?": 0.0,
+            "How can I improve my posture?": 0.0,
+            "can you suggest few food items with high content of": 0.0,
+            "Can you suggest few techniques of": 0.0,
+            "Can you suggest few easy workouts of": 0.0,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.0
+        },
+        "avg_similarity_score": 0.04909030363575817
+    },
+    {
+        "instruction": "Can you provide tips for creating a",
+        "input": "home gym",
+        "output": "Creating a home gym doesn't have to be expensive or complicated. Here are some tips to get you started:\n\n1. Determine Your Fitness Goals: Understanding your fitness goals will help you decide what equipment you need in your home gym. Do you want to focus on strength training, cardio, or both?\n\n2. Start Small: You don't have to invest in expensive equipment to create a home gym. Start with a few basic items like resistance bands or dumbbells and build from there.\n\n3. Use Multipurpose Equipment: Look for equipment that can be used for multiple exercises. For example, a stability ball can be used for various strength and balance exercises.\n\n4. Utilize Bodyweight Exercises: Your own body weight can be a great tool for working out in a home gym. Think push-ups, squats, planks, and lunges.\n\n5. Designate a Space: Choose an area in your home where you can comfortably work out and store your equipment. Even a small corner or spare room can be transformed into a home gym.\n\n6. Include a Variety of Exercise Types: Incorporate strength training, cardio, and flexibility exercises into your home gym routine for a well-rounded workout.\n\n7. Take Advantage of Online Resources: There are many free workout videos and resources available online that can guide you through home workouts without the need for equipment.\n\n8. Prioritize Safety: Make sure to use equipment properly and take safety precautions when working out at home. If you're unsure about how to use a particular piece of equipment, consult a fitness professional.\n\nRemember, a home gym doesn't have to be elaborate, and you can always add to it as your fitness goals and needs change. Have fun and get creative with your home workouts!",
+        "most_similar_instructions": {
+            "Can you suggest a plan for": 0.4615384615384615,
+            "Provide suggestions for improving": 0.36363636363636365,
+            "Can you suggest few techniques of": 0.30769230769230765,
+            "Can you suggest few easy workouts of": 0.2857142857142857,
+            "Can you recommend healthy alternatives to sugary drinks?": 0.26666666666666666,
+            "can you suggest few food items with high content of": 0.23529411764705882,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.16,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.15384615384615385,
+            "How can I improve my posture?": 0.15384615384615383,
+            "Generate an appropriate subjective title for the following email:": 0.125
+        },
+        "avg_similarity_score": 0.21638065366006543
+    },
+    {
+        "instruction": "discuss the benefits of strength training for overall health and fitness",
+        "input": "",
+        "output": "Strength training is an important component of a well-rounded fitness routine and offers numerous benefits for overall health and wellness. Here are some ways strength training can positively impact your health:\n\n1. Builds Muscle Mass and Strength: Strength training involves lifting weights or using resistance to target specific muscle groups, which helps improve muscle strength and size over time.\n\n2. Increases Metabolism: Muscle is more metabolically active than fat, so as you increase muscle mass through strength training, your metabolism can also increase. This means your body can burn more calories at rest, helping with weight management.\n\n3. Improves Bone Health: Resistance training can also help increase bone density and decrease the risk of osteoporosis, especially in older adults.\n\n4. Enhances Physical Performance: Regular strength training can improve your overall physical performance, making everyday tasks easier, and reducing the risk of injuries.\n\n5. Boosts Brain Function: Studies have shown that resistance training can benefit brain health and cognitive performance, helping to reduce the risk of age-related cognitive decline.\n\n6. Improves Insulin Sensitivity: Strength training can help improve insulin sensitivity and blood sugar control, making it beneficial for individuals with diabetes or prediabetes.\n\n7. Reduces Risk of Chronic Diseases: Regular strength training has been linked to decreased risk of chronic diseases such as heart disease, stroke, and some cancers.\n\n8. Promotes Mental Well-Being: Strength training can increase the release of endorphins, which can improve mood, reduce stress and anxiety levels, and boost self-confidence.\n\n9. Helps Maintain Independence: As we age, loss of muscle mass and strength can contribute to difficulty performing daily activities. Strength training can help maintain muscle and functional ability, helping to maintain independence and quality of life.\n\nRemember to consult a fitness professional to design a strength training program that suits your fitness level and goals. With proper form and progression, strength training can be a safe and effective way to improve overall health and well-being.",
+        "most_similar_instructions": {
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.14285714285714285,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.13793103448275862,
+            "Provide suggestions for improving": 0.13333333333333333,
+            "Can you suggest few techniques of": 0.11764705882352942,
+            "Can you suggest a plan for": 0.11764705882352942,
+            "Can you provide tips for creating a": 0.1111111111111111,
+            "Can you suggest few easy workouts of": 0.1111111111111111,
+            "Generate an appropriate subjective title for the following email:": 0.09999999999999999,
+            "can you suggest few food items with high content of": 0.09523809523809525,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.06666666666666667
+        },
+        "avg_similarity_score": 0.08719558557286752
+    },
+    {
+        "instruction": "can you recommend a balanced and healthy meal plan for someone looking to lose weight",
+        "input": "",
+        "output": "Of course! Here is a sample meal plan that focuses on incorporating nutrient-dense, whole foods to support weight loss and overall health:\n\nBreakfast:\n- Overnight Oats with Chia Seeds, topped with fresh berries and a drizzle of honey\n- Hard-boiled Egg\n- Green Tea\n\nSnack:\n- Apple slices with Almond Butter\n\nLunch:\n- Grilled Chicken Wrap with whole grain tortilla, lettuce, tomato, and hummus\n- Carrot Sticks\n- Greek Yogurt with Granola\n\nSnack:\n- Handful of Raw Almonds\n\nDinner:\n- Baked Salmon with Lemon and Dill\n- Roasted Vegetables (Brussels sprouts, bell peppers, and zucchini) with olive oil and herbs\n- Quinoa\n\nRemember to drink plenty of water throughout the day and listen to your body's hunger and fullness cues. Additionally, incorporating regular physical activity and portion control can also support weight loss efforts. Consult a registered dietitian for a tailored meal plan and guidance on appropriate portion sizes and nutrient intake for your individual needs.",
+        "most_similar_instructions": {
+            "Can you suggest a plan for": 0.47619047619047616,
+            "Can you recommend healthy alternatives to sugary drinks?": 0.43478260869565216,
+            "Can you provide tips for creating a": 0.27272727272727276,
+            "Can you suggest few techniques of": 0.19047619047619044,
+            "Can you suggest few easy workouts of": 0.18181818181818182,
+            "can you suggest few food items with high content of": 0.16,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.1212121212121212,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.11764705882352941,
+            "Provide suggestions for improving": 0.10526315789473685,
+            "How can I improve my posture?": 0.09523809523809522
+        },
+        "avg_similarity_score": 0.16986511238090474
+    },
+    {
+        "instruction": "Can you explain the difference between",
+        "input": "aerobic and anaerobic exercise",
+        "output": "Aerobic and anaerobic exercise are both essential components of a well-rounded fitness routine, but they differ in several ways. Here are some key differences between the two:\n\n1. Oxygen Usage: The main difference between aerobic and anaerobic exercise is the use of oxygen. Aerobic exercise (e.g., jogging, swimming, cycling) is defined as any activity that uses oxygen and can be sustained for an extended period (usually over 20 minutes). In contrast, anaerobic exercise (e.g., sprinting, weightlifting) does not require oxygen and is characterized by short bursts of intense activity.\n\n2. Energy Source: Aerobic exercise primarily uses fat and carbohydrates as fuel, while anaerobic exercise primarily relies on carbohydrates (glycogen) for energy.\n\n3. Duration and Intensity: Aerobic exercise is typically performed at a moderate intensity for longer durations, while anaerobic exercise is performed at a high intensity but for shorter durations.\n\n4. Muscle Fiber Recruitment: Aerobic exercise mainly recruits slow-twitch muscle fibers, which are smaller and more efficient at using oxygen to produce energy. In contrast, anaerobic exercise primarily engages fast-twitch muscle fibers, which are larger, use more energy, and are better suited for short, intense bursts of activity.\n\n5. Benefits: Both types of exercise have benefits for overall health and fitness. Aerobic exercise can improve cardiovascular health and endurance, while anaerobic exercise can increase muscle strength and power.\n\nUltimately, including both aerobic and anaerobic exercise in your routine can help you achieve a well-rounded and balanced fitness level. Aim for at least 150 minutes of moderate aerobic activity or 75 minutes of vigorous aerobic activity per week, as well as two days of strength training to reap the benefits of both types of exercise.",
+        "most_similar_instructions": {
+            "Can you suggest few techniques of": 0.3333333333333333,
+            "Can you suggest a plan for": 0.3333333333333333,
+            "Can you provide tips for creating a": 0.30769230769230765,
+            "Can you suggest few easy workouts of": 0.30769230769230765,
+            "Can you recommend healthy alternatives to sugary drinks?": 0.28571428571428575,
+            "can you suggest few food items with high content of": 0.25,
+            "can you recommend a balanced and healthy meal plan for someone looking to lose weight": 0.19047619047619044,
+            "How can I improve my posture?": 0.16666666666666666,
+            "Generate an appropriate subjective title for the following email:": 0.13333333333333333,
+            "discuss the benefits of strength training for overall health and fitness": 0.11764705882352942
+        },
+        "avg_similarity_score": 0.17261481002657472
+    },
+    {
+        "instruction": "Can you share some tips for",
+        "input": "maintaining a healthy diet while traveling",
+        "output": "Staying healthy while traveling can be challenging, especially when it comes to eating well. Here are some tips to help you maintain a healthy diet while on the go:\n\n1. Pack Snacks: Bringing healthy snacks like fruit, nuts, or protein bars can help you avoid grabbing unhealthy options when you're hungry and pressed for time.\n\n2. Stay Hydrated: Make sure to stay hydrated by drinking plenty of water, especially when flying. Carry a reusable water bottle with you and refill it throughout the day.\n\n3. Plan Ahead: Do some research on the local restaurants and grocery stores at your destination to find healthy options. You can also pack some healthy meal options, such as salads, to bring with you on your trip.\n\n4. Choose Wisely at Restaurants: When eating out, opt for grilled or baked lean protein sources, choose salads with dressing on the side, and ask for steamed vegetables or a side salad instead of fries or other fried options.\n\n5. Limit Alcohol and Added Sugars: Limiting alcohol and added sugars can help you stay on track with your healthy eating goals while traveling.\n\n6. Don't Skip Meals: Skipping meals can lead to overeating or choosing less healthy options later on. Try to stick to your regular eating schedule as much as possible while traveling.\n\n7. Stay Active: Explore your destination by foot, take stairs instead of elevators, or use the hotel gym if available to stay active and burn extra calories while traveling.\n\n8. Prepare for Airport Food Temptations: Airports are often filled with fast-food and unhealthy options. Eat a healthy meal before heading to the airport, and pack some healthy snacks to avoid giving in to temptation.\n\nRemember to be mindful of your choices and prioritize your health and well-being while traveling. It's okay to indulge in moderation, but try to maintain a balance and make healthy choices whenever possible.",
+        "most_similar_instructions": {
+            "Can you provide tips for creating a": 0.6153846153846153,
+            "Can you suggest a plan for": 0.5,
+            "Can you explain the difference between": 0.3333333333333333,
+            "Can you suggest few techniques of": 0.3333333333333333,
+            "Can you suggest few easy workouts of": 0.30769230769230765,
+            "can you recommend a balanced and healthy meal plan for someone looking to lose weight": 0.28571428571428575,
+            "Can you recommend healthy alternatives to sugary drinks?": 0.28571428571428575,
+            "can you suggest few food items with high content of": 0.25,
+            "Provide suggestions for improving": 0.2,
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.1739130434782609
+        },
+        "avg_similarity_score": 0.2416290998004553
+    },
+    {
+        "instruction": "How can I effectively track my",
+        "input": "fitness progress",
+        "output": "Tracking your fitness progress can help you stay motivated and make adjustments to your workout routine, if necessary. Here are some tips for effective tracking:\n\n1. Set Clear Goals: Before you begin tracking, have a clear idea of what you want to achieve. This could be increasing your strength, improving your endurance, or losing weight.\n\n2. Use a Fitness Tracker: If you have access to a fitness tracker, such as a smartwatch or fitness app, use it to track your workouts, steps, heart rate, and other metrics. This can provide valuable data for monitoring your progress.\n\n3. Keep a Workout Journal: If you prefer a more traditional approach, consider keeping a workout journal. Write down your exercises, reps, sets, and any other relevant information. This can help you track your progress over time and make adjustments as needed.\n\n4. Take Measurements: In addition to tracking exercises and workouts, consider taking measurements of your body, such as weight, body fat percentage, and body circumference. This can help you identify trends and progress in areas other than just exercise performance.\n\n5. Test Your Limits: Periodically test your limits to track improvements in strength or endurance. For example, record how much weight you can lift or how long you can run without stopping.\n\n6. Be Consistent: Consistency is key when tracking fitness progress. Make sure to track regularly and stick to your workout routine as closely as possible to get accurate results.\n\n7. Celebrate Small Wins: Progress takes time, so be patient and celebrate even small wins. This can help boost motivation and keep you on track towards your bigger goals.\n\nRemember to stay flexible and adjust your tracking method as needed. The most important thing is to find a system that works for you and helps you stay motivated and on track towards your fitness goals.",
+        "most_similar_instructions": {
+            "How can I improve my posture?": 0.6666666666666666,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.32,
+            "Can you share some tips for": 0.16666666666666666,
+            "Can you suggest few techniques of": 0.16666666666666666,
+            "Can you suggest a plan for": 0.16666666666666666,
+            "Can you explain the difference between": 0.16666666666666666,
+            "Can you provide tips for creating a": 0.15384615384615383,
+            "Can you suggest few easy workouts of": 0.15384615384615383,
+            "Can you recommend healthy alternatives to sugary drinks?": 0.14285714285714288,
+            "can you suggest few food items with high content of": 0.125
+        },
+        "avg_similarity_score": 0.13671299288946348
+    },
+    {
+        "instruction": "Can you provide me with some tips to",
+        "input": "improve my sleep quality",
+        "output": "Sure! Here are some tips to help you improve your sleep quality:\n\n1. Stick to a Sleep Schedule: Try to go to bed and wake up at the same time each day, on weekdays and weekends. This can help regulate your body's internal clock and improve sleep quality.\n\n2. Create a Relaxing Bedroom Environment: Make your bedroom a comfortable and relaxing space. Keep it dark, quiet, and cool to promote optimal conditions for sleep.\n\n3. Avoid Caffeine and Alcohol Before Bed: Caffeine can keep you awake and disrupt your sleep, so avoid consuming any caffeine-containing drinks or foods within 6 hours of bedtime. Similarly, alcohol can negatively affect sleep quality, so avoid consuming it before bedtime as well.\n\n4. Establish a Bedtime Routine: A bedtime routine can signal to your body that it's time to wind down and relax. Consider taking a bath, reading a book, or doing some gentle stretches or breathing exercises before going to bed.\n\n5. Limit Screen Time Before Bed: The blue light emitted from electronic devices can suppress the production of melatonin, a hormone that helps regulate sleep. To promote better sleep, avoid using screens at least 1 hour before bedtime.\n\n6. Practice Relaxation Techniques: As mentioned earlier, relaxation techniques like deep breathing, progressive muscle relaxation, and mindfulness meditation can help calm the mind and prepare your body for sleep.\n\n7. Exercise Regularly: Regular physical activity can improve sleep quality and reduce the amount of time it takes to fall asleep. However, avoid exercising close to bedtime, as it can make it harder to fall asleep.\n\n8. Address Any Underlying Sleep Disorders: If you have trouble falling or staying asleep, consult a doctor to rule out any underlying sleep disorders, such as sleep apnea or restless leg syndrome.\n\n9. Consider Natural Sleep Aids: If you have difficulty falling asleep, consider trying natural sleep aids, such as melatonin, valerian root, or chamomile tea. Make sure to consult with a doctor before using any sleep aids to ensure they are safe for you.\n\nRemember, good sleep is essential for your overall health and well-being. By implementing these tips, you can improve your sleep quality and wake up feeling more rested and rejuvenated.",
+        "most_similar_instructions": {
+            "Can you share some tips for": 0.5714285714285715,
+            "Can you provide tips for creating a": 0.5333333333333333,
+            "Can you recommend healthy alternatives to sugary drinks?": 0.375,
+            "can you suggest few food items with high content of": 0.33333333333333326,
+            "Can you suggest few techniques of": 0.28571428571428575,
+            "Can you explain the difference between": 0.28571428571428575,
+            "Can you suggest a plan for": 0.28571428571428575,
+            "Can you suggest few easy workouts of": 0.26666666666666666,
+            "can you recommend a balanced and healthy meal plan for someone looking to lose weight": 0.26086956521739135,
+            "Provide suggestions for improving": 0.16666666666666666
+        },
+        "avg_similarity_score": 0.2113460751987322
+    },
+    {
+        "instruction": "create a meal plan for a week that includes a variety of healthy and nutritious options",
+        "input": "",
+        "output": "Creating a balanced and nutritious meal plan for a week can help support your health and wellness goals. Here is a sample meal plan that includes a variety of healthy options for each meal and snacks:\n\nDay 1:\n- Breakfast: Avocado toast with scrambled eggs, spinach, and feta cheese\n- Lunch: Quinoa salad with grilled chicken, roasted vegetables, and a lemon vinaigrette\n- Dinner: Baked salmon with roasted sweet potatoes and green beans\n- Snacks: Apple slices with almond butter, Greek yogurt with berries and honey\n\nDay 2:\n- Breakfast: Oatmeal with chia seeds, almond milk, and sliced bananas\n- Lunch: Turkey and hummus wrap with mixed greens and cucumber\n- Dinner: Whole wheat pasta with marinara sauce, lean ground turkey, and roasted broccoli\n- Snacks: Carrot sticks with hummus, hard-boiled eggs\n\nDay 3:\n- Breakfast: Greek yogurt bowl with granola, fresh berries, and honey\n- Lunch: Grilled chicken salad with mixed greens, avocado, and balsamic vinaigrette\n- Dinner: Tofu stir-fry with broccoli, bell peppers, and brown rice\n- Snacks: Edamame, whole grain crackers with cheese\n\nDay 4:\n- Breakfast: Whole grain waffles topped with peanut butter and sliced bananas\n- Lunch: Whole grain pita stuffed with falafel, cucumber, tomato, and tzatziki sauce\n- Dinner: Baked chicken breast with roasted sweet potatoes and asparagus\n- Snacks: Fresh fruit smoothie, cottage cheese with pineapple\n\nDay 5:\n- Breakfast: Veggie omelette with whole wheat toast\n- Lunch: Chickpea and vegetable curry with brown rice\n- Dinner: Beef and vegetable stir-fry with quinoa\n- Snacks: Celery sticks with almond butter, fruit and nut trail mix\n\nDay 6:\n- Breakfast: Whole grain bagel with smoked salmon, cream cheese, and capers\n- Lunch: Chicken Caesar salad with whole wheat croutons\n- Dinner: Grilled shrimp and vegetable skewers with quinoa\n- Snacks: Hummus and whole grain pita, sliced bell peppers with ranch dressing\n\nDay 7:\n- Breakfast: Over easy eggs with whole grain toast and avocado\n- Lunch: Black bean and vegetable burrito bowl\n- Dinner: Turkey meatballs with roasted zucchini noodles and marinara sauce\n- Snacks: Greek yogurt with granola and strawberries, roasted chickpeas\n\nRemember to always tailor your meal plan to your individual needs, preferences and dietary restrictions. Consulting with a registered dietitian or nutritionist can help you personalize your meal plan to suit your unique needs and goals.",
+        "most_similar_instructions": {
+            "Can you suggest a plan for": 0.2727272727272727,
+            "can you recommend a balanced and healthy meal plan for someone looking to lose weight": 0.2580645161290323,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.23529411764705882,
+            "Can you provide tips for creating a": 0.17391304347826086,
+            "discuss the benefits of strength training for overall health and fitness": 0.14814814814814814,
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.12121212121212122,
+            "Provide suggestions for improving": 0.1,
+            "Can you share some tips for": 0.09090909090909091,
+            "Can you suggest few techniques of": 0.09090909090909091,
+            "Can you suggest few easy workouts of": 0.08695652173913043
+        },
+        "avg_similarity_score": 0.09871227317360388
+    },
+    {
+        "instruction": "What are some healthy and sustainable ways to lose weight?",
+        "input": "",
+        "output": "There are various healthy and sustainable ways to lose weight, but they require consistency, patience, and a balanced approach. Here are a few suggestions to help you get started:\n\n1. Create a Calorie Deficit: Weight loss occurs when you burn more calories than you consume. Calculate your daily calorie needs based on your age, gender, height, weight, and activity level, and aim to reduce your daily intake by 500-750 calories to lose 1-1.5 pounds per week.\n\n2. Focus on Whole Foods: Include plenty of fruits, vegetables, whole grains, lean proteins, and healthy fats into your diet while limiting processed foods, added sugars, and unhealthy fats.\n\n3. Practice Portion Control: Use measuring cups, food scales, or nutrition apps to keep track of your portions and prevent overeating.\n\n4. Stay Hydrated: Drinking enough water can help manage hunger, improve digestion, and support weight loss efforts. Aim for at least 8-10 cups of water per day.\n\n5. Move More: Engage in regular physical activity, including both cardio and strength training, to increase your daily calorie burn. Start small and aim for at least 150-300 minutes of moderate exercise per week.\n\n6. Reduce Stress: High levels of stress can lead to weight gain by increasing cravings for unhealthy foods and disrupting sleep patterns. Incorporate stress management techniques like meditation, yoga, or deep breathing into your routine.\n\n7. Get Enough Sleep: Poor sleep habits can affect hormones that control appetite and metabolism, leading to weight gain. Aim for 7-9 hours of quality sleep per night.\n\n8. Avoid Crash Dieting: Crash diets may result in quick weight loss, but they are not sustainable and can have negative impacts on your health. Focus on making small, realistic changes instead of drastic ones.\n\nRemember that weight loss is a slow and steady process, and it's essential to be patient and consistent with your efforts. Seek help from a registered dietitian or a healthcare professional if you need personalized guidance.",
+        "most_similar_instructions": {
+            "can you recommend a balanced and healthy meal plan for someone looking to lose weight": 0.32,
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.29629629629629634,
+            "Can you recommend healthy alternatives to sugary drinks?": 0.22222222222222224,
+            "Can you provide me with some tips to": 0.22222222222222224,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.21428571428571427,
+            "create a meal plan for a week that includes a variety of healthy and nutritious options": 0.15384615384615385,
+            "Can you share some tips for": 0.125,
+            "discuss the benefits of strength training for overall health and fitness": 0.09523809523809525,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.06896551724137931,
+            "Can you suggest few easy workouts of": 0.0
+        },
+        "avg_similarity_score": 0.08590381106760418
+    },
+    {
+        "instruction": "how can i improve my overall physical and mental well-being through consistent self-care practices?",
+        "input": "",
+        "output": "Self-care practices are essential for maintaining and improving both physical and mental well-being. Here are some ways you can incorporate self-care into your daily routine:\n\n1. Prioritize Sleep: Aim for 7-9 hours of quality sleep each night. This can significantly impact your energy levels, mood, and productivity during the day.\n\n2. Make Time for Relaxation: Engage in activities that help you relax and unwind, such as taking a warm bath, listening to calming music, or practicing yoga or meditation.\n\n3. Eat a Balanced Diet: Consume a variety of nutrient-dense foods like fruits, vegetables, whole grains, and lean proteins to support your body's nutritional needs.\n\n4. Spend Time Outdoors: Spend time in nature, whether that's going for a walk, hiking, or simply sitting outside. Fresh air and sunlight have been shown to boost mood and reduce stress.\n\n5. Stay Physically Active: Regular exercise not only improves physical fitness but also has mental health benefits. Find activities you enjoy and incorporate them into your routine.\n\n6. Connect with Others: Make an effort to socialize with friends and family regularly. Positive relationships are an essential aspect of well-being and can help reduce stress and boost mood.\n\n7. Enjoy Your Hobbies: Make time for activities you enjoy, whether it's painting, reading, or playing an instrument. Engaging in hobbies can bring joy, reduce stress, and boost creativity.\n\n8. Take Breaks: When feeling overwhelmed or stressed, take a break and step away from the situation. This can help you recharge and come back with a fresh perspective.\n\n9. Journaling: Writing down your thoughts, feelings, and experiences can be a helpful way to process emotions and identify any patterns or triggers that may impact your well-being.\n\n10. Seek Professional Help: If you're struggling with self-care, consider seeking help from a therapist or counselor. They can provide personalized guidance and support as you work on building a self-care routine that works for you.",
+        "most_similar_instructions": {
+            "How can I improve my posture?": 0.45454545454545453,
+            "How can I effectively track my": 0.36363636363636365,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.22857142857142856,
+            "discuss the benefits of strength training for overall health and fitness": 0.14814814814814814,
+            "can you recommend a balanced and healthy meal plan for someone looking to lose weight": 0.12903225806451615,
+            "Can you suggest few techniques of": 0.09090909090909091,
+            "Can you share some tips for": 0.09090909090909091,
+            "Can you explain the difference between": 0.09090909090909091,
+            "Can you suggest a plan for": 0.09090909090909091,
+            "Can you provide tips for creating a": 0.08695652173913043
+        },
+        "avg_similarity_score": 0.1125678795529134
+    },
+    {
+        "instruction": "provide suggestions for incorporating mindfulness into daily life for improved mental well-being",
+        "input": "",
+        "output": "Incorporating mindfulness into your daily life can help you become more present and decrease stress and anxiety. Here are some suggestions for incorporating mindfulness practices into your routine:\n\n1. Take Mindful Breaks: Set aside a few minutes throughout your day to practice mindfulness. This can be as simple as focusing on your breath and allowing your thoughts to pass by without judgment.\n\n2. Practice Gratitude: Take a moment each day to express gratitude for the good things in your life. This can be writing them down in a journal or simply reflecting on them in your mind.\n\n3. Solo Activities: Engage in activities that allow you to focus on yourself and the present moment, such as reading, journaling, or going for a walk alone.\n\n4. Mindful Eating: Slow down and savor your meals by paying attention to the taste, smell, and texture of your food. This can also help with making healthier food choices.\n\n5. Body Scan: Take a few minutes to scan your body and notice any areas of tension or discomfort. Focus on relaxing those areas through deep breathing and relaxation techniques.\n\n6. Meditate: Set aside a specific time each day to meditate, whether it's in the morning, during a break at work, or before bed. This can help you become more mindful and centered throughout the day.\n\n7. Connect with Nature: Spend time outdoors and appreciate the beauty of the natural world. Notice the sights, sounds, and sensations around you without judgment.\n\n8. Incorporate Mindful Activities: Choose activities that require focus and attention, such as painting, yoga, or gardening. These can help you become more present and relaxed.\n\n9. Get Creative: Engage in creative activities like drawing, writing, or playing music. These can help you get into a state of flow and increase mindfulness.\n\n10. Seek Guidance: If you're new to mindfulness, consider taking a class or seeking guidance from a mindfulness coach to learn more techniques and find what works best for you.",
+        "most_similar_instructions": {
+            "Provide suggestions for improving": 0.3529411764705882,
+            "how can i improve my overall physical and mental well-being through consistent self-care practices?": 0.20689655172413793,
+            "Can you provide tips for creating a": 0.2,
+            "Can you share some tips for": 0.10526315789473684,
+            "Can you suggest a plan for": 0.10526315789473684,
+            "Can you provide me with some tips to": 0.09523809523809525,
+            "Generate an appropriate subjective title for the following email:": 0.09090909090909093,
+            "discuss the benefits of strength training for overall health and fitness": 0.08333333333333334,
+            "can you recommend a balanced and healthy meal plan for someone looking to lose weight": 0.07142857142857144,
+            "create a meal plan for a week that includes a variety of healthy and nutritious options": 0.06896551724137931
+        },
+        "avg_similarity_score": 0.07154188399243612
+    },
+    {
+        "instruction": "Provide steps to prevent common sports injuries",
+        "input": "",
+        "output": "1. Warm Up and Cool Down Properly: Warming up before physical activity and cooling down afterward can help prevent injuries. Start with some light cardiovascular activity to raise your heart rate and loosen up your muscles, then perform some dynamic stretches. After your workout, do some static stretches to help cool down your muscles.\n\n2. Use Proper Equipment: Make sure you have the right equipment for your sport or activity, and that it fits properly. This can include things like shoes, protective gear, and clothing.\n\n3. Listen to Your Body: Pay attention to any aches, pains, or discomfort during physical activity. If something doesn't feel right, take a break and address the issue before continuing. Don't push through pain.\n\n4. Build Up Intensity Gradually: Don't jump into intense physical activity without building up to it first. Increase the intensity, duration, and frequency of your workouts gradually to give your body time to adjust and avoid overexertion.\n\n5. Cross-Train: Vary your physical activities to avoid overworking the same muscles or joints. This can also help prevent boredom and injuries caused by repetitive motion.\n\n6. Focus on Proper Technique: Make sure you're using correct form and technique for your sport or activity. This can help prevent strain and imbalance in your muscles and joints.\n\n7. Rest and Recover: Giving your body time to rest and recover between workouts is essential for preventing injuries. Incorporate rest days into your workout schedule, and don't ignore signs of overtraining or fatigue.\n\n8. Stay Hydrated: Dehydration can increase your risk of injuries, as your muscles are more prone to cramping and strains when they're dehydrated. Drink plenty of water throughout the day, and hydrate before, during, and after physical activity.\n\n9. Get Adequate Nutrition and Sleep: Proper nutrition and sleep are crucial for keeping your body healthy and strong. Make sure you're getting enough protein, carbohydrates, healthy fats, and micronutrients to support your physical activity. Aim for 7-9 hours of quality sleep each night to allow your body time to repair and recover from workouts.\n\n10. Seek Medical Attention if Needed: If you do experience an injury, don't try to push through it. Seek medical attention as soon as possible to address the issue and prevent further damage. Following a doctor's recommendations for recovery can help you heal and prevent future injuries.",
+        "most_similar_instructions": {
+            "Can you provide me with some tips to": 0.26666666666666666,
+            "Provide suggestions for improving": 0.18181818181818182,
+            "Can you provide tips for creating a": 0.14285714285714285,
+            "Can you recommend healthy alternatives to sugary drinks?": 0.13333333333333333,
+            "What are some healthy and sustainable ways to lose weight?": 0.11764705882352941,
+            "provide suggestions for incorporating mindfulness into daily life for improved mental well-being": 0.1,
+            "can you recommend a balanced and healthy meal plan for someone looking to lose weight": 0.09090909090909091,
+            "Can you share some tips for": 0.0,
+            "Can you suggest few techniques of": 0.0,
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.0
+        },
+        "avg_similarity_score": 0.04492310758295414
+    },
+    {
+        "instruction": "How can one avoid common",
+        "input": "injuries in weight training",
+        "output": "There are a few ways you can prevent common injuries in weight training:\n\n1. Proper Technique: One of the most important factors in preventing injuries is using proper technique. Make sure you're using correct form and not lifting too heavy for your current level of strength. If you're unsure about proper form, consider working with a personal trainer to learn the basics.\n\n2. Warm-Up: A proper warm-up can help prepare your muscles and joints for the workout, reducing the risk of injury. Spend 5-10 minutes doing some light cardio and dynamic stretches before your weight training session.\n\n3. Gradual Progression: Avoid trying to lift your maximum weight right away. Gradually increase the weight as your strength improves to avoid straining your muscles or joints.\n\n4. Rest and Recovery: It's important to give your muscles time to rest and recover after weight training. Make sure to schedule in rest days and prioritize proper sleep and nutrition to support recovery.\n\n5. Cross-Train: Don't focus solely on weight training. Incorporate other forms of exercise, such as cardio and flexibility training, to work different muscle groups and prevent overuse injuries.\n\nRemember that injuries can still happen even with precautions, so listen to your body and stop or modify an exercise if you feel any pain or discomfort. Seek medical attention if an injury does occur to ensure proper treatment and recovery.",
+        "most_similar_instructions": {
+            "How can I improve my posture?": 0.3636363636363636,
+            "How can I effectively track my": 0.3636363636363636,
+            "how can i improve my overall physical and mental well-being through consistent self-care practices?": 0.19047619047619047,
+            "Can you suggest a plan for": 0.1818181818181818,
+            "Can you suggest few techniques of": 0.1818181818181818,
+            "Can you share some tips for": 0.1818181818181818,
+            "Can you explain the difference between": 0.1818181818181818,
+            "Provide steps to prevent common sports injuries": 0.16666666666666666,
+            "Can you provide tips for creating a": 0.16666666666666666,
+            "Can you suggest few easy workouts of": 0.16666666666666666
+        },
+        "avg_similarity_score": 0.11886308136308134
+    },
+    {
+        "instruction": "Can you summarize the benefits of strength training?",
+        "input": "",
+        "output": "Sure, here are some key benefits of strength training:\n\n1. Increased Muscle Mass and Strength: Strength training involves lifting weights or using resistance to build muscle and increase strength. Over time, this can lead to visible muscle growth and improved physical performance.\n\n2. Better Body Composition: As you increase muscle mass and strength, your body's composition shifts to a higher percentage of muscle and a lower percentage of fat. This can lead to a leaner, more toned appearance.\n\n3. Enhanced Bone Health: Strength training helps improve bone density, reducing the risk of osteoporosis and other bone-related issues. This is especially important for women, who are at a higher risk for osteoporosis.\n\n4. Improved Metabolism: Building muscle through strength training can help boost your metabolism as muscle tissue burns more calories at rest than fat tissue. This, in turn, can aid in weight management.\n\n5. Enhanced Functional Strength: Strong muscles can improve your performance in everyday activities, making it easier to lift and carry heavy objects, climb stairs, and perform other daily tasks.\n\n6. Reduced Risk of Injury: Strong muscles and bones can help protect your body from injuries, especially as you age. This is important not only for physical activities but also for preventing falls and other accidents.\n\n7. Better Mental Health: Strength training has been shown to reduce symptoms of depression and anxiety, improve mood, and boost self-esteem. It can also promote better sleep and reduce stress levels.\n\n8. Increased Energy and Endurance: As your muscles get stronger, you'll likely notice an increase in your overall energy levels and endurance. This can help you feel more energized and motivated to engage in physical activity.\n\nRemember, strength training is not just for bodybuilders or athletes. It offers numerous benefits for individuals of all ages and fitness levels. Consider incorporating it into your workout routine for optimal health and wellness.",
+        "most_similar_instructions": {
+            "discuss the benefits of strength training for overall health and fitness": 0.5263157894736842,
+            "Can you suggest few techniques of": 0.42857142857142855,
+            "Can you explain the difference between": 0.42857142857142855,
+            "Can you suggest few easy workouts of": 0.39999999999999997,
+            "can you suggest few food items with high content of": 0.33333333333333326,
+            "Can you suggest a plan for": 0.28571428571428575,
+            "Can you share some tips for": 0.28571428571428575,
+            "Can you provide tips for creating a": 0.26666666666666666,
+            "Can you provide me with some tips to": 0.25,
+            "Can you recommend healthy alternatives to sugary drinks?": 0.25
+        },
+        "avg_similarity_score": 0.18322378617976948
+    },
+    {
+        "instruction": "Can you provide advice for incorporating more physical activity into a daily routine?",
+        "input": "",
+        "output": "Absolutely! Incorporating physical activity into your daily routine can have numerous health benefits, from boosting mood and energy levels to reducing the risk of chronic diseases. Here are some tips to help you get moving:\n\n1. Start Small: If you're new to exercising, start with small, achievable goals. Begin by incorporating 10-15 minutes of physical activity into your day and gradually increase the duration and intensity over time.\n\n2. Find Activities You Enjoy: Physical activity shouldn't feel like a chore. Find activities that you genuinely enjoy, whether it's going for a walk, dancing, playing a sport, or taking a fitness class. It's much easier to be consistent with exercise if you enjoy it.\n\n3. Make it a Habit: Schedule a specific time for physical activity each day to make it a part of your routine. This could be a morning walk, a lunch break yoga session, or an evening workout. Making it a habit can increase the chances of sticking with it and turning it into a healthy lifestyle choice.\n\n4. Incorporate it into Everyday Tasks: Look for opportunities to be physically active throughout the day. Take the stairs instead of the elevator, park further away from your destination and walk, or do some stretches during breaks at work.\n\n5. Buddy Up: Find a friend, family member, or coworker to be your exercise buddy. Having an accountability partner can make exercise more enjoyable and keep you motivated.\n\n6. Mix it Up: Vary your physical activities to avoid boredom and engage different muscle groups. Change your routine often, try new activities, and explore outdoor options to keep things interesting.\n\n7. Use Technology: Fitness trackers, workout apps, and online exercise videos can be great tools to help you monitor your progress, stay motivated, and learn new routines and exercises.\n\nRemember that any amount of movement is better than none. Start by incorporating small changes, and gradually build your physical activity to reach the recommended 150 minutes of moderate-intensity exercise per week. Consult with your healthcare provider before starting any new physical activity routine, especially if you have any underlying health conditions or concerns.",
+        "most_similar_instructions": {
+            "Can you provide tips for creating a": 0.5,
+            "provide suggestions for incorporating mindfulness into daily life for improved mental well-being": 0.38461538461538464,
+            "Can you suggest a plan for": 0.3157894736842105,
+            "Can you share some tips for": 0.3157894736842105,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.3125,
+            "Can you provide me with some tips to": 0.2857142857142857,
+            "Provide suggestions for improving": 0.23529411764705882,
+            "can you recommend a balanced and healthy meal plan for someone looking to lose weight": 0.21428571428571427,
+            "Can you suggest few techniques of": 0.21052631578947367,
+            "Can you explain the difference between": 0.21052631578947367
+        },
+        "avg_similarity_score": 0.18489797501846778
+    },
+    {
+        "instruction": "How can one stay motivated to exercise regularly, especially during periods of low energy or busy schedules?",
+        "input": "",
+        "output": "Staying motivated to exercise regularly can be challenging, especially when energy levels are low, or schedules become hectic. Here are some ideas to help you stay motivated:\n\n1. Set Realistic Goals: Aim for achievable and realistic goals to avoid feeling discouraged. This could mean starting with small goals and slowly increasing them over time.\n\n2. Find Your \"Why\": Developing a strong \"why\" can help you stay motivated when faced with challenges. Whether it's improving your physical health, reducing stress, or increasing energy levels, identifying your motivation can give you a sense of purpose and a reason to keep going.\n\n3. Use Positive Reinforcement: Focus on celebrating your progress instead of dwelling on setbacks. For example, reward yourself with something you enjoy when reaching a milestone.\n\n4. Buddy Up: Find a friend, family member, or coworker to be your exercise buddy. Having a workout partner can keep you motivated, accountable, and make physical activity more fun.\n\n5. Schedule Your Workout: Treat your workout like an important appointment and schedule it into your day. This can help prevent procrastination and make exercise a non-negotiable part of your routine.\n\n6. Try a Variety of Activities: Varying your physical activities can prevent boredom and engage different muscle groups. Explore different types of exercises, classes, and outdoor activities to find what works best for you.\n\n7. Visualize Your Success: Picture yourself reaching your fitness goals and the feelings of accomplishment and satisfaction that come with it. Visualizing success can be a powerful motivator.\n\n8. Use Apps and Technology: Fitness trackers, workout apps, and social media communities can provide support, motivation, and accountability to help you stay on track with your exercise goals.\n\nRemember that staying motivated is an ongoing process, and there will be times when you may feel less motivated. Be patient with yourself, and don't be too hard on yourself. Focus on making exercise a regular habit, and the motivation will follow.",
+        "most_similar_instructions": {
+            "How can one avoid common": 0.2727272727272727,
+            "How can I effectively track my": 0.1739130434782609,
+            "Can you suggest few techniques of": 0.1739130434782609,
+            "How can I improve my posture?": 0.1739130434782609,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.16666666666666669,
+            "Can you suggest few easy workouts of": 0.16666666666666666,
+            "Can you recommend healthy alternatives to sugary drinks?": 0.15999999999999998,
+            "Can you summarize the benefits of strength training?": 0.15999999999999998,
+            "Can you provide me with some tips to": 0.15999999999999998,
+            "can you suggest few food items with high content of": 0.14814814814814817
+        },
+        "avg_similarity_score": 0.10438659248406337
+    },
+    {
+        "instruction": "How can one maintain a healthy and balanced diet while following a plant-based lifestyle?",
+        "input": "vegan diet",
+        "output": "Maintaining a healthy and balanced diet while following a plant-based or vegan lifestyle is possible with proper planning and knowledge. Here are some tips to help you achieve this:\n\n1. Focus on Whole Foods: Incorporate plenty of fruits, vegetables, whole grains, legumes, nuts, and seeds into your diet. These foods are packed with nutrients and can help provide a variety of vitamins, minerals, healthy fats, and protein.\n\n2. Monitor Your Protein Intake: As a vegan, it's crucial to ensure that you're consuming enough protein from plant sources such as legumes, tofu, quinoa, and tempeh. Make sure to include a source of protein in each meal to meet your daily requirements.\n\n3. Incorporate Healthy Fats: Focus on consuming healthy sources of fats such as avocados, olive oil, coconut oil, nuts, seeds, and fatty fish like salmon. Minimize the consumption of processed oils, trans fats, and added sugars.\n\n4. Watch Your Calcium Intake: Calcium is essential for strong bones, and as a vegan, you may need to pay extra attention to your calcium intake. Good sources of plant-based calcium include fortified plant milks, leafy greens, tofu, and almonds.\n\n5. Consider Supplementation: Vitamin B12, which is primarily found in animal products, is crucial for vegans to supplement with. Other micronutrients to consider supplementing include vitamin D, iron, and omega-3 fatty acids.\n\n6. Explore Plant-Based Sources of Iron: Plant sources of iron, including beans, lentils, dark leafy greens, and fortified cereals, may be less absorbable than those found in animal products. To increase iron absorption, consume these foods with a source of vitamin C, such as citrus fruits or bell peppers.\n\n7. Experiment with New Recipes: Eating a variety of foods is essential for getting the nutrients you need on a vegan diet. Try out new recipes and cooking methods to keep meals interesting and nutritious.\n\n8. Be Prepared: Plan nutritious and satisfying meals in advance to avoid turning to unhealthy or convenience foods when short on time. Prep salads, snacks, and meals for the week ahead to stay on track with your healthy eating goals.\n\nRemember that everyone's nutritional needs vary, so it's essential to consult with a registered dietitian if you have any concerns or are unsure about meeting your nutrient needs on a vegan diet.",
+        "most_similar_instructions": {
+            "How can one avoid common": 0.3,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.23529411764705882,
+            "can you recommend a balanced and healthy meal plan for someone looking to lose weight": 0.20000000000000004,
+            "how can i improve my overall physical and mental well-being through consistent self-care practices?": 0.19354838709677422,
+            "create a meal plan for a week that includes a variety of healthy and nutritious options": 0.19354838709677422,
+            "How can I improve my posture?": 0.19047619047619044,
+            "How can I effectively track my": 0.19047619047619044,
+            "Can you suggest a plan for": 0.19047619047619044,
+            "How can one stay motivated to exercise regularly, especially during periods of low energy or busy schedules?": 0.18750000000000003,
+            "Can you provide tips for creating a": 0.18181818181818182
+        },
+        "avg_similarity_score": 0.12767924441424977
+    },
+    {
+        "instruction": "How can one incorporate more whole foods into their diet?",
+        "input": "",
+        "output": "Incorporating more whole foods into one's diet can have numerous health benefits, including providing essential vitamins, minerals, fiber, and antioxidants. Here's how you can include more whole foods in your diet:\n\n1. Start Slow: If you're not used to consuming a lot of whole foods, start slow to avoid feeling overwhelmed. Begin by swapping out one processed food item for a whole food alternative and gradually increase the number of whole foods in your diet.\n\n2. Make a Grocery List: Before going grocery shopping, make a list of the whole foods you want to incorporate into your diet and stick to it. This can help you resist impulse purchases and encourage you to try new, nutritious foods.\n\n3. Keep Healthy Snacks on Hand: Keep a stash of healthy snacks like fruits, vegetables, nuts, or homemade energy balls in the fridge or pantry. This can help you avoid turning to more processed or unhealthy snacks when hunger strikes.\n\n4. Prioritize Plants: Aim for half of your plate to consist of fruits and vegetables. These plant-based foods are packed with nutrients and can help displace less healthy options in your diet.\n\n5. Limit Processed Foods: Processed foods are often high in calories but low in nutrients. Limiting processed foods can help you increase your intake of whole, nutrient-dense options.\n\n6. Plan Your Meals: Plan your meals around whole foods to ensure that you're getting a variety of nutrients in your diet. Consider batch cooking whole grains, beans, or soups at the beginning of the week, so you have healthy options on hand all week.\n\n7. Experiment with Cooking: Eating more whole foods may require learning new cooking techniques. Experiment with different recipes, and use herbs, spices, and other natural flavorings to make your meals more enjoyable.\n\n8. Read Labels: When shopping for packaged foods, look beyond the front label promises and read the nutrition information and ingredient list to ensure you're choosing the most wholesome options available.\n\nRemember that incorporating more whole foods does not mean completely eliminating processed or convenience foods from your diet. It's all about finding a balance and consistently prioritizing whole, nutritious foods. Consult with a registered dietitian to develop a personalized meal plan if needed.",
+        "most_similar_instructions": {
+            "How can one avoid common": 0.4,
+            "How can one maintain a healthy and balanced diet while following a plant-based lifestyle?": 0.32,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.27586206896551724,
+            "Can you provide advice for incorporating more physical activity into a daily routine?": 0.2608695652173913,
+            "How can I improve my posture?": 0.25,
+            "How can I effectively track my": 0.25,
+            "How can one stay motivated to exercise regularly, especially during periods of low energy or busy schedules?": 0.22222222222222224,
+            "how can i improve my overall physical and mental well-being through consistent self-care practices?": 0.15384615384615385,
+            "Can you explain the difference between": 0.125,
+            "Can you suggest few techniques of": 0.125
+        },
+        "avg_similarity_score": 0.11959944768864852
+    },
+    {
+        "instruction": "what are some ways to stay hydrated throughout the day without drinking plain water?",
+        "input": "",
+        "output": "Staying hydrated is essential for overall health, but if plain water is not your preferred drink, there are many other ways to stay hydrated. Here are some ideas:\n\n1. Infused Water: Infusing water with fruits, herbs, or vegetables can add flavor and nutrients, making it more appealing to drink. Some great options include lemon, cucumber, berries, or mint leaves.\n\n2. Herbal Teas: Herbal teas are a great way to increase fluid intake and provide other health benefits. Choose herbal teas like peppermint, chamomile, or ginger that don't contain caffeine.\n\n3. Low-Sugar Drinks: If you crave something sweet, opt for low-sugar drinks like coconut water, fruit juice diluted with water, or iced tea with minimal or no added sugar.\n\n4. Fruits and Vegetables: Some fruits and vegetables have a high water content and can help hydrate your body. Examples include watermelon, celery, cucumbers, and strawberries.\n\n5. Hydrating Foods: In addition to fruits and veggies, some other food sources can help you stay hydrated, such as soups, smoothies, or broths.\n\n6. Sports Drinks: If you engage in intense physical activity, sports drinks can help replenish electrolytes and fluid lost through sweat. Just be mindful of the added artificial flavors and sugars.\n\n7. Flavored Sparkling Water: For a fizzy option, try flavored sparkling water with no added sugar or artificial sweeteners. Some brands even have options with added electrolytes.\n\n8. Try Different Temperatures: Not everyone enjoys cold water. If that's the case, try drinking room temperature or warm water with a squeeze of lemon.\n\n9. Milk: Milk is a good source of hydration as it contains a mix of fluid, protein, and energy, making it a great post-workout drink.\n\nRemember, the best way to stay hydrated is by regularly sipping on fluids throughout the day, so try to make it a habit to carry a water bottle with you wherever you go.",
+        "most_similar_instructions": {
+            "What are some healthy and sustainable ways to lose weight?": 0.41666666666666663,
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.1935483870967742,
+            "Can you provide me with some tips to": 0.18181818181818182,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.125,
+            "Can you explain the difference between": 0.1,
+            "Can you share some tips for": 0.1,
+            "Provide steps to prevent common sports injuries": 0.09523809523809523,
+            "Can you summarize the benefits of strength training?": 0.09090909090909091,
+            "Can you recommend healthy alternatives to sugary drinks?": 0.09090909090909091,
+            "Generate an appropriate subjective title for the following email:": 0.08695652173913043
+        },
+        "avg_similarity_score": 0.05850445804189094
+    },
+    {
+        "instruction": "Can you recommend some healthy recipes for a busy weeknight?",
+        "input": "chicken stir-fry",
+        "output": "Absolutely! Here's a delicious and nutritious chicken stir-fry recipe that's perfect for a busy weeknight:\n\nIngredients:\n- 1 lb chicken breast, cut into bite-sized pieces\n- 2 tablespoons soy sauce\n- 1 tablespoon corn starch\n- 2 tablespoons vegetable or canola oil\n- 1 onion, diced\n- 2 cloves garlic, minced\n- 1 red bell pepper, sliced\n- 1 green bell pepper, sliced\n- 1 cup broccoli florets\n- 1 cup snap peas\n- 1 cup sliced mushrooms\n- Salt and pepper to taste\n- Optional toppings: chopped green onion, sesame seeds, chopped cilantro\n\nInstructions:\n1. In a small bowl, mix together the soy sauce and corn starch. Add the chicken and let it marinate for at least 10 minutes.\n2. In a large wok or pan, heat 1 tablespoon of oil over high heat. Add the chicken and cook for 3-4 minutes, stirring occasionally, until browned and cooked through. Remove from pan and set aside.\n3. In the same pan, heat another tablespoon of oil over medium-high heat. Add the onion and garlic and cook for 1-2 minutes until softened.\n4. Add the bell peppers, broccoli, snap peas, and mushrooms to the pan and cook for 4-5 minutes until vegetables are tender.\n5. Return the chicken to the pan and toss with the vegetables. Season with salt and pepper to taste.\n6. Serve over rice or your favorite grain. Top with optional toppings if desired. Enjoy!\n\nThis chicken stir-fry is packed with protein and nutritious vegetables, making it a well-balanced and satisfying weeknight meal option. Feel free to switch up the vegetables based on whichever ones you have on hand or prefer. Bon app\u00e9tit!",
+        "most_similar_instructions": {
+            "Can you share some tips for": 0.5,
+            "Can you provide tips for creating a": 0.47058823529411764,
+            "Can you recommend healthy alternatives to sugary drinks?": 0.4444444444444445,
+            "can you recommend a balanced and healthy meal plan for someone looking to lose weight": 0.4,
+            "Can you suggest a plan for": 0.37499999999999994,
+            "Can you provide advice for incorporating more physical activity into a daily routine?": 0.34782608695652173,
+            "Can you provide me with some tips to": 0.33333333333333326,
+            "Can you suggest few techniques of": 0.25,
+            "Can you explain the difference between": 0.25,
+            "How can one maintain a healthy and balanced diet while following a plant-based lifestyle?": 0.24
+        },
+        "avg_similarity_score": 0.20459707244968636
+    },
+    {
+        "instruction": "How can I improve my flexibility and prevent injury during workouts or daily activities?",
+        "input": "",
+        "output": "Improving flexibility and preventing injury can be achieved by regularly incorporating stretching exercises into your routine. Here are some tips:\n\n1. Warm-up: Always warm up before working out or engaging in physical activities to prepare your muscles and joints for movement. Begin with gentle movements and gradually increase intensity.\n\n2. Dynamic Stretching: Opt for dynamic stretching, which involves moving your body through a range of motion, rather than static stretching, where you hold a stretch for a period of time. Dynamic stretching helps improve flexibility and increase blood flow to the muscles.\n\n3. Static Stretching: After your workout or physical activity, incorporate static stretches to help cool down and relax your muscles. This can also help improve flexibility over time.\n\n4. Hold Stretches: When stretching, hold each stretch for at least 20-30 seconds to allow your muscles to fully relax and lengthen.\n\n5. Breathe: Remember to breathe deeply and regularly during stretches to help relax the muscles and prevent injury.\n\n6. Listen to Your Body: Do not push your body beyond its limits. If a stretch feels uncomfortable or painful, stop immediately.\n\n7. Stretch Daily: Incorporating stretching into your daily routine can help maintain and improve flexibility over time.\n\nRemember that flexibility is an essential component of physical fitness and can help prevent injury and improve performance in everyday activities. Consult a fitness professional for specific stretching exercises that cater to your fitness level and goals.",
+        "most_similar_instructions": {
+            "How can I improve my posture?": 0.5,
+            "How can I effectively track my": 0.4,
+            "how can i improve my overall physical and mental well-being through consistent self-care practices?": 0.39999999999999997,
+            "How can one stay motivated to exercise regularly, especially during periods of low energy or busy schedules?": 0.2580645161290323,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.24242424242424243,
+            "How can one avoid common": 0.21052631578947364,
+            "How can one maintain a healthy and balanced diet while following a plant-based lifestyle?": 0.20689655172413796,
+            "Can you suggest few easy workouts of": 0.19047619047619047,
+            "How can one incorporate more whole foods into their diet?": 0.16666666666666666,
+            "Can you provide advice for incorporating more physical activity into a daily routine?": 0.14814814814814817
+        },
+        "avg_similarity_score": 0.13708156649529282
+    },
+    {
+        "instruction": "Inquire about the top health and wellness trends for this year.",
+        "input": "",
+        "output": "The top health and wellness trends for 2021 include:\n\n1. Mindfulness and Mental Health: With the ongoing pandemic and increased stress, there is a growing focus on mental health and mindfulness practices to promote overall well-being. These may include meditation, breathing exercises, and therapy.\n\n2. At-Home Fitness: With many gyms closed or operating at limited capacity, people are turning to at-home workout options like virtual fitness classes, online personal training, and home gym equipment to stay active and fit.\n\n3. Plant-Based Diets: More people are incorporating plant-based foods into their diets, whether for health or ethical reasons. This includes options like plant-based meats, dairy-free milks, and vegetarian or vegan meal plans.\n\n4. Immune-Boosting Foods: The COVID-19 pandemic has also brought attention to foods that can help boost the immune system, such as citrus fruits, leafy greens, and mushrooms, which contain immune-supporting vitamins and minerals.\n\n5. Virtual Healthcare: With the rise of telehealth services and virtual appointments, more people are seeking medical advice and support online, particularly for non-emergency conditions.\n\n6. Intermittent Fasting: Intermittent fasting, which involves cycling between periods of eating and fasting, has gained popularity for its potential health benefits, including improved metabolism and weight management.\n\n7. Active Recovery: Active recovery, or engaging in low-intensity movement or activities on rest days from exercise, is gaining recognition for its role in preventing injury, improving performance, and promoting overall wellness.\n\n8. Personalized Nutrition: With advances in technology, there is a growing interest in personalized nutrition plans based on an individual's genetics, microbiome, and current health status.\n\n9. Mental and Emotional Well-Being in the Workplace: With the shift to remote work, companies are placing a stronger emphasis on employee mental and emotional well-being, providing resources and support for managing stress and maintaining work-life balance.\n\n10. Online Wellness Communities: The pandemic has also spurred the growth of online wellness communities, where individuals can connect, share advice and support, and participate in virtual wellness events and challenges.",
+        "most_similar_instructions": {
+            "discuss the benefits of strength training for overall health and fitness": 0.2727272727272727,
+            "can you recommend a balanced and healthy meal plan for someone looking to lose weight": 0.15384615384615383,
+            "Provide suggestions for improving": 0.13333333333333333,
+            "Can you share some tips for": 0.11764705882352942,
+            "Can you suggest a plan for": 0.11764705882352942,
+            "Can you explain the difference between": 0.11764705882352942,
+            "Can you provide tips for creating a": 0.1111111111111111,
+            "Can you summarize the benefits of strength training?": 0.10526315789473685,
+            "Generate an appropriate subjective title for the following email:": 0.09999999999999999,
+            "Can you recommend some healthy recipes for a busy weeknight?": 0.09523809523809525
+        },
+        "avg_similarity_score": 0.06601506190708775
+    },
+    {
+        "instruction": "What are the best ways to stay motivated on a fitness journey?",
+        "input": "",
+        "output": "Staying motivated on a fitness journey can be challenging at times, but here are some tips to help you stay on track:\n\n1. Set Realistic Goals: Setting goals that are achievable and specific can help keep you motivated. Break down your larger fitness goals into smaller, manageable ones and celebrate your progress along the way.\n\n2. Find a Workout Buddy: Having a workout partner can not only make exercising more enjoyable, but can also provide accountability and support on days when motivation is low.\n\n3. Change Up Your Routine: Doing the same workouts day after day can get monotonous and lead to burnout. Keep things interesting and challenging by incorporating a variety of exercises and activities into your routine.\n\n4. Reward Yourself: After reaching a milestone or completing a particularly challenging workout, give yourself a small reward or treat. This positive reinforcement can help boost motivation and keep you on track.\n\n5. Visualize Your Progress: Whether it's keeping a workout journal, taking progress photos, or using a fitness tracking app, seeing how far you've come can provide motivation to keep going.\n\n6. Focus on the Process, not Just the Outcome: Instead of solely focusing on your end goal, shift your focus to the process of getting there. Enjoying the journey and the small victories along the way can provide a sense of fulfillment and motivation.\n\n7. Incorporate Rest Days: Rest and recovery are just as important as exercise when it comes to making progress. Don't be afraid to take rest days when needed and listen to your body's cues for when to take a break.\n\n8. Find What You Enjoy: Exercise should not be a punishment, so find activities and workouts that you genuinely enjoy. This will make it easier to stay motivated and consistent in the long run.\n\n9. Remember Why You Started: On those days when motivation is low, remind yourself of why you started your fitness journey. Whether it's to improve your health, gain confidence, or simply have fun, keeping your why in mind can provide the push you need to keep going.\n\n10. Seek Support: If you're struggling to stay motivated, don't be afraid to seek support from loved ones, a personal trainer, or a fitness community. Having a support system can make a big difference in staying motivated and on track.",
+        "most_similar_instructions": {
+            "what are some ways to stay hydrated throughout the day without drinking plain water?": 0.3846153846153846,
+            "What are some healthy and sustainable ways to lose weight?": 0.3636363636363636,
+            "discuss the benefits of strength training for overall health and fitness": 0.17391304347826086,
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.13793103448275862,
+            "How can one stay motivated to exercise regularly, especially during periods of low energy or busy schedules?": 0.13793103448275862,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.13333333333333333,
+            "Can you explain the difference between": 0.1111111111111111,
+            "Can you suggest a plan for": 0.1111111111111111,
+            "Can you provide tips for creating a": 0.10526315789473685,
+            "Provide steps to prevent common sports injuries": 0.10526315789473685
+        },
+        "avg_similarity_score": 0.07945015554517204
+    },
+    {
+        "instruction": "how can i maintain a healthy and balanced diet while still enjoying favorite foods?",
+        "input": "",
+        "output": "Maintaining a healthy and balanced diet doesn't mean giving up your favorite foods completely. Here are some tips for finding a balance:\n\n1. Practice Moderation: Instead of cutting out your favorite foods altogether, enjoy them in moderation. Portion control is key, so try using smaller plates, serving sizes, or sharing meals with others.\n\n2. Plan Ahead: If you know you have a special event coming up or want to indulge in a favorite food, plan ahead by balancing out your other meals throughout the day. For example, if you plan on having pasta for dinner, opt for a lighter lunch and breakfast.\n\n3. Get Creative: Look for healthier alternatives or ways to modify your favorite meals. For example, use whole wheat or vegetable-based pasta, swap out heavy creams for Greek yogurt, or use less oil when cooking.\n\n4. Use Spices and Herbs: Instead of relying on fatty or processed ingredients for flavor, experiment with herbs and spices to enhance the taste of your meals. This can also be a fun way to try new flavors and cuisines.\n\n5. Mindful Eating: Slow down and savor your meals. Pay attention to your food and listen to your body's cues for fullness. This can help prevent overeating and allow you to truly enjoy your favorite foods.\n\n6. Don't Restrict Entire Food Groups: Unless you have a medical reason to do so, it's important to include a variety of foods from different food groups in your diet. Restricting entire food groups can lead to nutrient deficiencies and unhealthy eating habits.\n\nRemember, it's all about finding a balance and making sustainable changes to your diet, not strict deprivation. Enjoy your favorite foods in moderation and focus on incorporating whole, nutrient-dense foods into your overall diet.",
+        "most_similar_instructions": {
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.24242424242424243,
+            "Can you suggest a plan for": 0.2,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.1875,
+            "Can you suggest few techniques of": 0.1,
+            "Can you suggest few easy workouts of": 0.09523809523809523,
+            "can you suggest few food items with high content of": 0.08333333333333333,
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.06451612903225808,
+            "Generate an appropriate subjective title for the following email:": 0.0,
+            "": 0
+        },
+        "avg_similarity_score": 0.10811242222532547
+    },
+    {
+        "instruction": "Can you provide tips for building muscle mass and increasing strength through weightlifting?",
+        "input": "",
+        "output": "Yes, here are some tips for building muscle mass and increasing strength through weightlifting:\n\n1. Plan your workouts: Create a structured workout plan that targets specific muscle groups on different days. This allows for adequate rest and recovery between workouts, which is essential for muscle growth.\n\n2. Focus on compound exercises: Compound exercises involve multiple muscle groups and are more efficient for building overall strength and muscle mass. Examples include squats, deadlifts, bench press, and overhead press.\n\n3. Gradually increase weight and reps: To challenge your muscles and promote growth, gradually increase the weight and reps you use for each exercise. Aim for a weight that allows you to complete 8-12 reps with good form before reaching fatigue.\n\n4. Incorporate variety: Add variety to your routine by incorporating different exercises, varying the number of sets and reps, or trying new techniques such as drop sets or supersets. This can help prevent plateauing and keep your muscles challenged.\n\n5. Allow for rest and recovery: Adequate rest and recovery are crucial for muscle growth. Aim for 1-2 rest days per week and incorporate stretching, foam rolling, and other recovery techniques into your routine.\n\n6. Stay hydrated and eat well: Proper hydration and nutrition are essential for muscle growth and strength. Make sure to stay hydrated throughout the day and consume a balanced diet with adequate protein, complex carbohydrates, healthy fats, and micronutrients.\n\n7. Seek guidance from a professional: Consider working with a personal trainer or a fitness professional to ensure proper form, learn new techniques, and create an effective workout plan that aligns with your goals and abilities.",
+        "most_similar_instructions": {
+            "Can you suggest a plan for": 0.3157894736842105,
+            "Can you suggest few techniques of": 0.21052631578947367,
+            "Can you suggest few easy workouts of": 0.2,
+            "can you suggest few food items with high content of": 0.17391304347826086,
+            "how can i maintain a healthy and balanced diet while still enjoying favorite foods?": 0.14814814814814817,
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.13333333333333333,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.12903225806451615,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.125,
+            "Generate an appropriate subjective title for the following email:": 0.09090909090909093,
+            "": 0
+        },
+        "avg_similarity_score": 0.15266516634070332
+    },
+    {
+        "instruction": "What are some ways to incorporate more vegetables into my diet?",
+        "input": "",
+        "output": "Of course! Here are some simple ways to add more vegetables to your meals:\n1. Add them to your omelette or scrambled eggs for breakfast.\n2. Swap out your regular sandwich wrap for a lettuce wrap.\n3. Stir-fry a mix of your favorite vegetables with lean protein and serve over brown rice.\n4. Blend leafy greens like spinach or kale into your smoothies.\n5. Roast a sheet pan of assorted vegetables like broccoli, carrots, and sweet potatoes for a quick and nutritious side dish.\nRemember to aim for a variety of colors to ensure you're getting a range of nutrients from your vegetables.",
+        "most_similar_instructions": {
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.21428571428571427,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.19999999999999998,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.06896551724137931,
+            "can you suggest few food items with high content of": 0.0,
+            "Can you suggest few techniques of": 0.0,
+            "Can you suggest few easy workouts of": 0.0,
+            "Can you suggest a plan for": 0.0,
+            "Generate an appropriate subjective title for the following email:": 0.0,
+            "": 0
+        },
+        "avg_similarity_score": 0.053694581280788176
+    },
+    {
+        "instruction": "Can you suggest some healthy snack options for on-the-go?",
+        "input": "",
+        "output": "Absolutely! Here are some nutritious, portable snack ideas:\n1. Apple slices with almond butter.\n2. Trail mix with nuts, seeds, and dried fruit.\n3. Hard-boiled eggs.\n4. Carrot sticks with hummus.\n5. Greek yogurt topped with granola and fresh berries.\n6. Whole grain crackers and string cheese.\n7. Homemade energy balls made with oats, nut butter, and honey.\nRemember to always read nutrition labels and watch your portion sizes to ensure your on-the-go snacks are truly healthy choices.",
+        "most_similar_instructions": {
+            "Can you suggest a plan for": 0.4705882352941177,
+            "Can you suggest few techniques of": 0.3529411764705882,
+            "Can you suggest few easy workouts of": 0.33333333333333326,
+            "can you suggest few food items with high content of": 0.28571428571428564,
+            "Generate an appropriate subjective title for the following email:": 0.19999999999999998,
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.14285714285714285,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.13793103448275862,
+            "What are some ways to incorporate more vegetables into my diet?": 0.09090909090909091,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.06666666666666667,
+            "": 0
+        },
+        "avg_similarity_score": 0.20809409657279837
+    },
+    {
+        "instruction": "How can I improve my running speed and endurance?",
+        "input": "",
+        "output": "Great question! Here are a few tips to help you run faster and longer:\n1. Incorporate interval training, such as alternating between sprints and slower-paced jogs.\n2. Focus on strengthening your core and leg muscles through exercises like planks, lunges, and squats.\n3. Incorporate hill training into your routine to build endurance.\n4. Make sure to include rest and recovery days in your training schedule.\n5. Gradually increase your distance and pace over time to avoid overexerting yourself.\nRemember to also listen to your body and fuel properly before and after your runs to maximize your performance and prevent injury.",
+        "most_similar_instructions": {
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.2857142857142857,
+            "Can you suggest few techniques of": 0.13333333333333333,
+            "Can you suggest a plan for": 0.13333333333333333,
+            "Can you suggest few easy workouts of": 0.125,
+            "can you suggest few food items with high content of": 0.10526315789473685,
+            "Can you suggest some healthy snack options for on-the-go?": 0.09999999999999999,
+            "What are some ways to incorporate more vegetables into my diet?": 0.09999999999999999,
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.07692307692307691,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.07407407407407407,
+            "Generate an appropriate subjective title for the following email:": 0.0
+        },
+        "avg_similarity_score": 0.10305829647934911
+    },
+    {
+        "instruction": "How can I incorporate more strength training into my fitness routine?",
+        "input": "",
+        "output": "Absolutely! Here are a few ways to add strength training to your workouts:\n1. Utilize resistance bands or dumbbells for added resistance during bodyweight exercises.\n2. Incorporate compound exercises, like squats, deadlifts, and bench presses, that work multiple muscle groups at once.\n3. Try out a group fitness class that focuses on strength training, such as CrossFit or Body Pump.\n4. Make sure to include rest days in your strength training routine to allow your muscles time to recover and grow.\nRemember to pay attention to proper form and start with lighter weights before gradually increasing the weight for a safe and effective strength training routine.",
+        "most_similar_instructions": {
+            "How can I improve my running speed and endurance?": 0.39999999999999997,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.39999999999999997,
+            "What are some ways to incorporate more vegetables into my diet?": 0.36363636363636365,
+            "Can you suggest few techniques of": 0.11764705882352942,
+            "Can you suggest a plan for": 0.11764705882352942,
+            "Can you suggest few easy workouts of": 0.1111111111111111,
+            "can you suggest few food items with high content of": 0.09523809523809525,
+            "Can you suggest some healthy snack options for on-the-go?": 0.09090909090909091,
+            "Generate an appropriate subjective title for the following email:": 0.0,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.0
+        },
+        "avg_similarity_score": 0.14134906487847662
+    },
+    {
+        "instruction": "Can you recommend some low-impact exercises for joint pain?",
+        "input": "Joint pain affects many people, especially as they age. But that doesn't mean you can't stay active. <noinput>",
+        "output": "Absolutely! Here are some low-impact exercises that can help ease joint pain:\n1. Swimming or water aerobics: The buoyancy of water takes pressure off of joints while still providing a good workout.\n2. Cycling: This is a low-impact option that can be done outdoors or on a stationary bike.\n3. Yoga: Focus on gentle poses and listen to your body to avoid any additional joint strain.\n4. Resistance band exercises: These can provide a strength workout without the jarring impact of traditional weightlifting.\nRemember to always listen to your body and modify exercises as needed to avoid exacerbating joint pain.",
+        "most_similar_instructions": {
+            "Can you suggest some healthy snack options for on-the-go?": 0.380952380952381,
+            "Can you suggest a plan for": 0.37499999999999994,
+            "Can you suggest few techniques of": 0.25,
+            "Can you suggest few easy workouts of": 0.23529411764705882,
+            "can you suggest few food items with high content of": 0.20000000000000004,
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.14814814814814817,
+            "How can I improve my running speed and endurance?": 0.10526315789473685,
+            "Generate an appropriate subjective title for the following email:": 0.10526315789473685,
+            "How can I incorporate more strength training into my fitness routine?": 0.09523809523809525,
+            "What are some ways to incorporate more vegetables into my diet?": 0.09523809523809525
+        },
+        "avg_similarity_score": 0.1639070185910156
+    },
+    {
+        "instruction": "How much water should I drink in a day?",
+        "input": "",
+        "output": "The general recommendation is to drink eight 8-ounce glasses of water per day, or about half a gallon. However, individual water needs can vary based on factors like physical activity level and overall health. One way to monitor your hydration is to pay attention to the color of your urine \u2013 a pale yellow color is a good indication that you are properly hydrated.",
+        "most_similar_instructions": {
+            "How can I improve my running speed and endurance?": 0.2222222222222222,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.21428571428571427,
+            "How can I incorporate more strength training into my fitness routine?": 0.19999999999999998,
+            "Can you suggest a plan for": 0.13333333333333333,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.07407407407407407,
+            "Can you recommend some low-impact exercises for joint pain?": 0.0,
+            "Can you suggest some healthy snack options for on-the-go?": 0.0,
+            "What are some ways to incorporate more vegetables into my diet?": 0.0,
+            "can you suggest few food items with high content of": 0.0,
+            "Can you suggest few techniques of": 0.0
+        },
+        "avg_similarity_score": 0.06027966742252456
+    },
+    {
+        "instruction": "Can you suggest some healthy breakfast options for busy mornings?",
+        "input": "",
+        "output": "Of course! Here are some easy and nutritious breakfast ideas:\n1. Overnight oatmeal: Combine rolled oats with milk, yogurt, and your choice of toppings like fruit and nuts, then let it sit in the fridge overnight for a quick and filling breakfast.\n2. Whole grain toast with avocado and a boiled egg.\n3. Greek yogurt with granola and fresh berries.\n4. A smoothie made with fruit, protein powder, and spinach or kale.\n5. Whole grain waffles topped with peanut butter and sliced bananas.\nRemember to also prioritize protein and fiber to keep you feeling full and satisfied until lunchtime.",
+        "most_similar_instructions": {
+            "Can you suggest some healthy snack options for on-the-go?": 0.6666666666666666,
+            "Can you suggest a plan for": 0.5,
+            "Can you recommend some low-impact exercises for joint pain?": 0.4000000000000001,
+            "Can you suggest few techniques of": 0.37499999999999994,
+            "Can you suggest few easy workouts of": 0.3529411764705882,
+            "can you suggest few food items with high content of": 0.3,
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.14814814814814817,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.13793103448275862,
+            "How can I improve my running speed and endurance?": 0.10526315789473685,
+            "Generate an appropriate subjective title for the following email:": 0.10526315789473685
+        },
+        "avg_similarity_score": 0.22354120689749316
+    },
+    {
+        "instruction": "How can I sneak more exercise into my daily routine?",
+        "input": "",
+        "output": "Great question! Here are a few ways to incorporate more movement into your day:\n1. Take the stairs instead of the elevator.\n2. Park further away from your destination.\n3. Do bodyweight exercises while watching TV or during commercial breaks.\n4. Go for a walk during your lunch break.\n5. Choose active hobbies like hiking or dancing.\nRemember that any movement is better than none, so even small changes can make a big difference in your overall activity levels.",
+        "most_similar_instructions": {
+            "How can I incorporate more strength training into my fitness routine?": 0.6666666666666666,
+            "How can I improve my running speed and endurance?": 0.4210526315789474,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.3448275862068966,
+            "What are some ways to incorporate more vegetables into my diet?": 0.28571428571428564,
+            "How much water should I drink in a day?": 0.2105263157894737,
+            "Can you suggest few techniques of": 0.125,
+            "Can you suggest a plan for": 0.125,
+            "Can you suggest few easy workouts of": 0.11764705882352941,
+            "Can you suggest some healthy breakfast options for busy mornings?": 0.10000000000000002,
+            "Can you recommend some low-impact exercises for joint pain?": 0.10000000000000002
+        },
+        "avg_similarity_score": 0.16822954000111842
+    },
+    {
+        "instruction": "Can you recommend some stretches to help with lower back pain?",
+        "input": "",
+        "output": "Absolutely! Here are a few stretches that can provide relief for lower back pain:\n1. Child's Pose: Start on your hands and knees, then sit back onto your heels and reach your arms forward, lowering your chest towards the ground.\n2. Cat-Cow: Begin on your hands and knees. As you inhale, arch your back and lift your head towards the ceiling. As you exhale, round your spine and tuck your chin towards your chest.\n3. Piriformis Stretch: Lay on your back with your knees bent. Cross one ankle over the opposite knee and gently pull your knee towards your chest.\nRemember to listen to your body and avoid pushing into any stretches that cause sharp or intense pain.",
+        "most_similar_instructions": {
+            "Can you recommend some low-impact exercises for joint pain?": 0.47619047619047616,
+            "can you suggest few food items with high content of": 0.28571428571428564,
+            "Can you suggest some healthy breakfast options for busy mornings?": 0.28571428571428564,
+            "Can you suggest some healthy snack options for on-the-go?": 0.2727272727272727,
+            "Can you suggest few techniques of": 0.23529411764705885,
+            "Can you suggest a plan for": 0.23529411764705885,
+            "Can you suggest few easy workouts of": 0.2222222222222222,
+            "What are some ways to incorporate more vegetables into my diet?": 0.18181818181818182,
+            "How can I improve my running speed and endurance?": 0.09999999999999999,
+            "How can I sneak more exercise into my daily routine?": 0.09523809523809525
+        },
+        "avg_similarity_score": 0.15407161081901566
+    },
+    {
+        "instruction": "What are some healthy snacks I can eat before a workout?",
+        "input": "",
+        "output": "Great question! Here are some pre-workout snack ideas:\n1. A piece of fruit with a handful of almonds or another nut butter.\n2. Whole grain crackers with hummus and veggies.\n3. Apple slices with a slice of cheese.\n4. A small smoothie made with fruit, protein powder, and milk or a milk alternative.\nRemember to choose snacks with a balance of carbohydrates and protein to give you energy for your workout without weighing you down.",
+        "most_similar_instructions": {
+            "What are some ways to incorporate more vegetables into my diet?": 0.2727272727272727,
+            "Can you suggest a plan for": 0.23529411764705885,
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.21428571428571427,
+            "How much water should I drink in a day?": 0.19999999999999998,
+            "Can you suggest some healthy breakfast options for busy mornings?": 0.1904761904761905,
+            "Can you suggest some healthy snack options for on-the-go?": 0.18181818181818182,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.13793103448275862,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.13333333333333333,
+            "Can you suggest few techniques of": 0.11764705882352942,
+            "Can you suggest few easy workouts of": 0.1111111111111111
+        },
+        "avg_similarity_score": 0.13123091567986767
+    },
+    {
+        "instruction": "How can I improve my flexibility?",
+        "input": "",
+        "output": "Absolutely! Here are some ways to enhance flexibility:\n1. Incorporate stretching into your daily routine, especially after workouts when your muscles are warm.\n2. Practice yoga or Pilates.\n3. Use a foam roller or massage ball to work out knots and tension in your muscles.\n4. Make sure to maintain good posture throughout the day to avoid tightness and stiffness.\nRemember to always listen to your body and avoid pushing stretches too far, as this can lead to injury.",
+        "most_similar_instructions": {
+            "How can I improve my running speed and endurance?": 0.6666666666666667,
+            "How can I sneak more exercise into my daily routine?": 0.5,
+            "How can I incorporate more strength training into my fitness routine?": 0.4705882352941177,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.32,
+            "How much water should I drink in a day?": 0.26666666666666666,
+            "Can you suggest a plan for": 0.16666666666666666,
+            "Can you suggest few techniques of": 0.16666666666666666,
+            "Can you suggest few easy workouts of": 0.15384615384615383,
+            "Can you suggest some healthy breakfast options for busy mornings?": 0.125,
+            "Can you recommend some low-impact exercises for joint pain?": 0.125
+        },
+        "avg_similarity_score": 0.18719417321584503
+    },
+    {
+        "instruction": "Can you suggest some healthy alternatives to sugary drinks?",
+        "input": "",
+        "output": "Of course! Here are some refreshing, healthy drink options without added sugars:\n1. Infused water with fresh fruit or herbs.\n2. Iced herbal tea with a squeeze of lemon.\n3. Sparkling water with a splash of fruit juice or a slice of citrus.\n4. Cold brew iced tea with a touch of honey.\nRemember to also be mindful of added sugars in bottled and canned drinks, and opt for unsweetened options whenever possible.",
+        "most_similar_instructions": {
+            "Can you suggest some healthy breakfast options for busy mornings?": 0.5263157894736842,
+            "Can you suggest some healthy snack options for on-the-go?": 0.5,
+            "Can you suggest a plan for": 0.4,
+            "Can you suggest few techniques of": 0.4,
+            "Can you recommend some stretches to help with lower back pain?": 0.39999999999999997,
+            "Can you suggest few easy workouts of": 0.375,
+            "Can you recommend some low-impact exercises for joint pain?": 0.3157894736842105,
+            "can you suggest few food items with high content of": 0.3157894736842105,
+            "What are some ways to incorporate more vegetables into my diet?": 0.19999999999999998,
+            "What are some healthy snacks I can eat before a workout?": 0.19999999999999998
+        },
+        "avg_similarity_score": 0.21525140308035046
+    },
+    {
+        "instruction": "How can I make healthy eating more affordable?",
+        "input": "",
+        "output": "Absolutely! Here are some tips for eating healthy on a budget:\n1. Buy in-season produce and freeze or preserve any excess for later.\n2. Look for sales and discounts on healthy items, and consider buying in bulk for savings.\n3. Cook at home instead of eating out, and get creative with leftovers to reduce food waste.\n4. Incorporate plant-based meals into your diet, as beans and legumes are often less expensive than meat.\nRemember to also plan your meals ahead of time and make a list before grocery shopping to avoid overspending on unnecessary items.",
+        "most_similar_instructions": {
+            "How can I sneak more exercise into my daily routine?": 0.4444444444444445,
+            "How can I improve my flexibility?": 0.42857142857142855,
+            "How can I incorporate more strength training into my fitness routine?": 0.4210526315789474,
+            "How can I improve my running speed and endurance?": 0.35294117647058826,
+            "Can you suggest some healthy alternatives to sugary drinks?": 0.23529411764705882,
+            "How much water should I drink in a day?": 0.23529411764705882,
+            "Can you suggest some healthy breakfast options for busy mornings?": 0.22222222222222224,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.22222222222222218,
+            "Can you suggest some healthy snack options for on-the-go?": 0.2105263157894737,
+            "Can you suggest few techniques of": 0.14285714285714288
+        },
+        "avg_similarity_score": 0.1812643365938368
+    },
+    {
+        "instruction": "Can you suggest some ways to increase my daily step count?",
+        "input": "",
+        "output": "Absolutely! Here are some ideas to help you reach your step goal:\n1. Take a walk during your lunch break.\n2. Use a standing desk or take breaks to stand up and move throughout the day.\n3. Park further away from your destination.\n4. Take the stairs instead of the elevator.\n5. Set reminders to get up and move around every hour.\nRemember that every step counts, so even small changes like taking a short walk after dinner or pacing while on the phone can add up to increased activity.",
+        "most_similar_instructions": {
+            "Can you suggest some healthy alternatives to sugary drinks?": 0.5,
+            "Can you suggest some healthy breakfast options for busy mornings?": 0.380952380952381,
+            "Can you suggest some healthy snack options for on-the-go?": 0.36363636363636365,
+            "Can you recommend some stretches to help with lower back pain?": 0.36363636363636365,
+            "What are some ways to incorporate more vegetables into my diet?": 0.36363636363636365,
+            "Can you suggest a plan for": 0.3529411764705882,
+            "Can you suggest few techniques of": 0.3529411764705882,
+            "Can you suggest few easy workouts of": 0.33333333333333326,
+            "How can I sneak more exercise into my daily routine?": 0.28571428571428564,
+            "Can you recommend some low-impact exercises for joint pain?": 0.28571428571428564
+        },
+        "avg_similarity_score": 0.22210302128680964
+    },
+    {
+        "instruction": "How can I stay motivated to keep working out?",
+        "input": "",
+        "output": "Great question! Here are some tips to help you stay on track with your workouts:\n1. Find a workout buddy or join a fitness group for accountability and support.\n2. Set realistic and achievable goals, and track your progress to see how far you've come.\n3. Try new activities or workouts to prevent boredom and keep things fresh.\n4. Reward yourself for meeting your goals, but focus on non-food rewards instead of using food as a treat.\nRemember that motivation can come and go, and that's okay! Instead of relying on motivation, focus on building healthy habits and consistency.",
+        "most_similar_instructions": {
+            "How can I improve my flexibility?": 0.4,
+            "How can I make healthy eating more affordable?": 0.35294117647058826,
+            "How can I improve my running speed and endurance?": 0.3333333333333333,
+            "How can I sneak more exercise into my daily routine?": 0.3157894736842105,
+            "How can I incorporate more strength training into my fitness routine?": 0.3,
+            "How much water should I drink in a day?": 0.2222222222222222,
+            "Can you suggest some healthy alternatives to sugary drinks?": 0.2222222222222222,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.21428571428571427,
+            "Can you suggest some ways to increase my daily step count?": 0.19999999999999998,
+            "Can you recommend some stretches to help with lower back pain?": 0.19999999999999998
+        },
+        "avg_similarity_score": 0.16383696880735515
+    },
+    {
+        "instruction": "how can I improve my cardiovascular endurance through exercise?",
+        "input": "Cardiovascular endurance refers to the ability of the heart, lungs, and blood vessels to deliver oxygen-rich blood to working muscles during physical activity. Below are some tips to improve your cardiovascular endurance workout.",
+        "output": "Here are some ways to optimize your exercise routine and boost your cardiovascular endurance:\n\n1. Start With a Warm-Up: A proper warm-up prepares your body for the upcoming physical activity, gradually increasing your heart rate and body temperature. Aim for 5-10 minutes of light cardio, such as jogging in place or jumping jacks.\n\n2. Mix It Up: Don't stick to just one type of cardio exercise. Incorporate a variety of aerobic activities like running, cycling, swimming, or dancing. Varying your workouts challenges your body and helps prevent boredom.\n\n3. Interval Training: Alternating between high-intensity bursts of activity and short recovery periods can effectively improve cardiovascular endurance. For example, 30 seconds of sprinting followed by 15 seconds of rest, repeated for 10-15 minutes.\n\n4. Maintain Good Form: Proper form is crucial when it comes to preventing injury and getting the most out of your workout. Whether it's running, biking, or swimming, paying attention to posture and technique can help maximize the benefits.\n\n5. Gradually Increase Intensity: As your endurance improves, gradually increase the intensity of your workouts. This can mean running a longer distance, increasing the resistance on an elliptical, or adding more weight to strength training exercises.\n\n6. Take Adequate Rest: Rest and recovery are crucial for improving cardiovascular endurance. Make sure to schedule in rest days and listen to your body's cues for when you need to slow down or take a break.\n\n7. Fuel Your Body: Eating a balanced diet, including enough carbohydrates, protein, and healthy fats, provides your body with the necessary fuel for exercise and recovery.\n\n8. Stay Hydrated: Adequate hydration is key for optimal performance. Aim to drink water before, during, and after your workouts.\n\n9. Monitor Progress: Keep track of your progress to stay motivated and monitor your improvements. This can be done through tracking your heart rate, distance, or time, depending on the type of exercise you choose.\n\nRemember to always consult with a healthcare professional before starting a new exercise routine, especially if you have any underlying health conditions.",
+        "most_similar_instructions": {
+            "How can I improve my flexibility?": 0.6666666666666667,
+            "How can I improve my running speed and endurance?": 0.6666666666666666,
+            "How can I sneak more exercise into my daily routine?": 0.4210526315789474,
+            "How can I incorporate more strength training into my fitness routine?": 0.39999999999999997,
+            "How can I make healthy eating more affordable?": 0.35294117647058826,
+            "How can I stay motivated to keep working out?": 0.3333333333333333,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.2857142857142857,
+            "How much water should I drink in a day?": 0.2222222222222222,
+            "Can you suggest some ways to increase my daily step count?": 0.19999999999999998,
+            "Can you suggest few techniques of": 0.13333333333333333
+        },
+        "avg_similarity_score": 0.20171826284119887
+    },
+    {
+        "instruction": "Can you suggest some low-impact exercises for pregnant women?",
+        "input": "Pregnancy is a special time for a woman, and physical activity can be beneficial for both the mother and the baby. Can you provide some suggestions for low-impact exercises that are safe for pregnant women?",
+        "output": "Congratulations on your pregnancy! Regular physical activity during pregnancy can help improve cardiovascular health, reduce stress, and lead to a smoother delivery. Here are some low-impact exercises that are safe for pregnant women:\n\n1. Walking: Walking is a low-impact exercise that can be easily incorporated into daily routines. It helps improve cardiovascular endurance and can be done throughout the entire pregnancy.\n\n2. Swimming: Swimming is a great option for pregnant women as it provides a full-body workout without putting pressure on the joints. Many women find the water to be soothing and can help reduce any pregnancy-related discomfort.\n\n3. Prenatal Yoga: Prenatal yoga is a form of exercise that focuses on building strength, flexibility, and relaxation. It can help improve balance and alleviate back pain, both common discomforts during pregnancy.\n\n4. Stationary Cycling: Cycling on a stationary bike is a low-impact option that provides a great cardiovascular workout. The added bonus of having a seat may be comfortable for pregnant women, especially in the later stages of pregnancy.\n\n5. Modified Strength Training: Strength training is safe during pregnancy as long as it is done with proper form and modifications. Using lighter weights and focusing on specific muscle groups, such as the arms and legs, can help maintain muscle tone and strength.\n\nRemember to always consult with your healthcare provider before starting any new exercise routine during pregnancy. They can provide personalized recommendations based on your individual needs and health status.",
+        "most_similar_instructions": {
+            "Can you recommend some low-impact exercises for joint pain?": 0.7,
+            "Can you suggest some healthy breakfast options for busy mornings?": 0.5,
+            "Can you suggest a plan for": 0.5,
+            "Can you suggest some healthy snack options for on-the-go?": 0.47619047619047616,
+            "Can you suggest some healthy alternatives to sugary drinks?": 0.4210526315789474,
+            "Can you suggest some ways to increase my daily step count?": 0.380952380952381,
+            "Can you suggest few techniques of": 0.37499999999999994,
+            "Can you suggest few easy workouts of": 0.3529411764705882,
+            "can you suggest few food items with high content of": 0.3,
+            "Can you recommend some stretches to help with lower back pain?": 0.28571428571428564
+        },
+        "avg_similarity_score": 0.22493084864516485
+    },
+    {
+        "instruction": "Can you provide some recommendations for healthy and balanced post-workout meals?",
+        "input": "After a workout, it's important to refuel your body with the right nutrients for optimal recovery and muscle growth. Can you suggest some healthy and balanced post-workout meals?",
+        "output": "Yes, here are some recommendations for healthy and balanced post-workout meals that can provide the necessary nutrients for optimal recovery:\n\n1. Grilled chicken with quinoa and roasted vegetables: This meal provides a balance of protein, complex carbohydrates, and fiber. The chicken is a good source of lean protein, while quinoa and vegetables provide complex carbs and fiber for sustained energy.\n\n2. Avocado toast with hard-boiled eggs and a side of fruit: Avocado toast is a quick and easy post-workout meal that combines healthy fats and carbohydrates. Adding a side of hard-boiled eggs adds a boost of protein, while fruit provides antioxidants and vitamins.\n\n3. Salmon with sweet potato and steamed greens: Salmon is an excellent source of protein and healthy fats, while sweet potatoes provide complex carbs and fiber. Steamed greens, like spinach or broccoli, add essential vitamins and minerals.\n\n4. Greek yogurt with mixed berries and nuts: Greek yogurt is a rich source of protein and calcium, while mixed berries provide antioxidants and fiber. Adding some nuts, like almonds or walnuts, provides healthy fats and additional protein.\n\n5. Turkey and veggie wrap with hummus: This meal is quick, easy, and portable, making it a great post-workout option. Turkey provides lean protein, while the wrap provides complex carbohydrates. Hummus adds some healthy fats and flavor, while the veggies provide essential nutrients and fiber.\n\nRemember to listen to your body and fuel it with wholesome, nutrient-dense foods after a workout. Consult with a registered dietitian for personalized recommendations based on your individual needs and fitness goals.",
+        "most_similar_instructions": {
+            "Can you suggest some healthy alternatives to sugary drinks?": 0.380952380952381,
+            "Can you suggest some low-impact exercises for pregnant women?": 0.3636363636363636,
+            "Can you recommend some low-impact exercises for joint pain?": 0.3636363636363636,
+            "Can you suggest some healthy breakfast options for busy mornings?": 0.3636363636363636,
+            "Can you suggest some healthy snack options for on-the-go?": 0.34782608695652173,
+            "Can you suggest a plan for": 0.3333333333333333,
+            "Can you suggest some ways to increase my daily step count?": 0.2608695652173913,
+            "What are some healthy snacks I can eat before a workout?": 0.2608695652173913,
+            "Can you recommend some stretches to help with lower back pain?": 0.2608695652173913,
+            "Can you suggest few techniques of": 0.2222222222222222
+        },
+        "avg_similarity_score": 0.19762495535042196
+    },
+    {
+        "instruction": "Can you provide tips for staying hydrated throughout the day?",
+        "input": "hydration",
+        "output": "Sure! Here are a few tips for staying hydrated throughout the day:\n\n1. Drink water regularly: The most obvious tip is to make sure you're drinking water regularly throughout the day. Carry a water bottle with you and take sips throughout the day to stay hydrated.\n\n2. Eat hydrating foods: Many fruits and vegetables, such as watermelon, cucumber, and lettuce, contain a lot of water and can help you stay hydrated. Incorporating these into your meals can help increase your overall water intake.\n\n3. Set reminders: It's easy to forget to drink water when you're busy, so setting reminders on your phone or using an app can help remind you to drink water throughout the day.\n\n4. Watch out for signs of dehydration: If you're feeling thirsty, have a dry mouth, or are experiencing headaches or fatigue, you may be dehydrated. Use these as cues to drink more water.\n\n5. Infuse your water: If you find plain water boring, try adding some flavor by infusing it with fruits or herbs. This can make drinking water more enjoyable and can also provide additional nutrients.\n\n6. Keep track of your intake: You can use a water tracking app or simply keep track on a piece of paper to ensure that you're getting enough water throughout the day.\n\nRemember, staying hydrated is crucial for your overall health and well-being, so make sure to prioritize drinking enough water every day.",
+        "most_similar_instructions": {
+            "Can you suggest some healthy snack options for on-the-go?": 0.380952380952381,
+            "Can you suggest a plan for": 0.37499999999999994,
+            "Can you provide some recommendations for healthy and balanced post-workout meals?": 0.3636363636363636,
+            "Can you suggest some healthy breakfast options for busy mornings?": 0.3,
+            "Can you suggest some low-impact exercises for pregnant women?": 0.3,
+            "Can you recommend some low-impact exercises for joint pain?": 0.3,
+            "Can you suggest few techniques of": 0.25,
+            "Can you suggest few easy workouts of": 0.23529411764705882,
+            "Can you suggest some healthy alternatives to sugary drinks?": 0.2105263157894737,
+            "Generate an appropriate subjective title for the following email:": 0.2105263157894737
+        },
+        "avg_similarity_score": 0.17812555775360578
+    },
+    {
+        "instruction": "Can you recommend some healthy snacks for busy days?",
+        "input": "healthy snacks",
+        "output": "Absolutely! Here are a few healthy snack options for busy days:\n\n1. Nuts and seeds: These are a great source of protein, healthy fats, and other beneficial nutrients. Keep a small bag of mixed nuts and seeds in your bag for a quick, filling snack.\n\n2. Fresh fruit: Fruit is a great option for a quick and healthy snack. Apples, bananas, and berries are easy to grab on-the-go and provide necessary vitamins and minerals.\n\n3. Veggie sticks with hummus: Cut up some carrots, cucumbers, and bell peppers and dip them in hummus for a nutritious and satisfying snack.\n\n4. Hard-boiled eggs: Eggs are a great source of protein and can provide long-lasting energy. Boil a few ahead of time and keep them in your fridge for a quick and easy snack.\n\n5. Greek yogurt with fresh berries: Greek yogurt is high in protein and adding some fresh berries can provide a boost of antioxidants and flavor.\n\n6. Whole grain crackers with cheese: Opt for whole grain crackers and pair them with a slice of cheese for a satisfying and filling snack.\n\n7. Energy balls: Homemade energy balls made with oats, nuts, and dried fruit can provide a quick and nutritious snack on-the-go.\n\nRemember to always have healthy snacks on hand to resist the temptation of reaching for processed and unhealthy options.",
+        "most_similar_instructions": {
+            "Can you suggest some healthy breakfast options for busy mornings?": 0.631578947368421,
+            "Can you recommend some low-impact exercises for joint pain?": 0.5263157894736842,
+            "Can you suggest some healthy snack options for on-the-go?": 0.5,
+            "Can you suggest some healthy alternatives to sugary drinks?": 0.4444444444444444,
+            "Can you suggest some low-impact exercises for pregnant women?": 0.4210526315789474,
+            "Can you suggest a plan for": 0.4,
+            "Can you recommend some stretches to help with lower back pain?": 0.39999999999999997,
+            "Can you provide some recommendations for healthy and balanced post-workout meals?": 0.380952380952381,
+            "Can you provide tips for staying hydrated throughout the day?": 0.3157894736842105,
+            "What are some healthy snacks I can eat before a workout?": 0.3
+        },
+        "avg_similarity_score": 0.24415853835911336
+    }
+]

@@ -1,0 +1,451 @@
+[
+    {
+        "instruction": "Can you give me some tips on improving my sleep schedule?",
+        "input": "at night",
+        "output": "Sure! Here are some tips for improving your sleep schedule at night:\n1. Create a consistent bedtime routine and try to stick to it even on weekends.\n2. Avoid electronic devices at least an hour before bedtime to allow your body to produce melatonin, a hormone that helps regulate your sleep cycle.\n3. Avoid heavy meals, caffeine, and alcohol close to bedtime as they can disrupt your sleep.\n4. Make your bedroom conducive to sleep by keeping it dark, cool, and quiet.\n5. Practice relaxation techniques like deep breathing or guided meditation to help you unwind and fall asleep faster.",
+        "most_similar_instructions": {
+            "Can you suggest few techniques of": 0.23529411764705885,
+            "Can you suggest a plan for": 0.23529411764705885,
+            "Can you suggest few easy workouts of": 0.2222222222222222,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.19999999999999998,
+            "can you suggest few food items with high content of": 0.1904761904761905,
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.07142857142857142,
+            "Generate an appropriate subjective title for the following email:": 0.0,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.0,
+            "": 0
+        },
+        "avg_similarity_score": 0.1283016910467891
+    },
+    {
+        "instruction": "How can I incorporate more fruits and vegetables into my diet?",
+        "input": "breakfast",
+        "output": "One easy way to incorporate more fruits and vegetables into your diet is to start with breakfast. Here are some ideas:\n1. Add fresh fruits like berries, apples, or bananas to your breakfast bowl of oatmeal or yogurt.\n2. Blend spinach or kale into your morning smoothie for a boost of nutrients.\n3. Try swapping out your usual breakfast foods for vegetable-based options like avocado toast, veggie omelets, or sweet potato hash.\n4. Make a big batch of vegetable frittata or breakfast burritos over the weekend to have a quick and healthy breakfast option for the week.\nRemember to aim for at least 5 servings of fruits and vegetables throughout the day for optimal health benefits.",
+        "most_similar_instructions": {
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.4666666666666667,
+            "Can you give me some tips on improving my sleep schedule?": 0.18181818181818182,
+            "Can you suggest few techniques of": 0.11764705882352942,
+            "Can you suggest a plan for": 0.11764705882352942,
+            "Can you suggest few easy workouts of": 0.1111111111111111,
+            "can you suggest few food items with high content of": 0.09523809523809525,
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.07142857142857142,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.06896551724137931,
+            "Generate an appropriate subjective title for the following email:": 0.0,
+            "": 0
+        },
+        "avg_similarity_score": 0.12305222611510647
+    },
+    {
+        "instruction": "What are some healthy substitutes for processed snacks?",
+        "input": "chips",
+        "output": "Instead of chips, try these healthier snack options:\n1. Air-popped popcorn seasoned with herbs and spices for a satisfying and low-calorie snack.\n2. Baked sweet potato fries or vegetable chips made from beets, carrots, or zucchini.\n3. Ditch the packaged snack bars and make your own energy bites using oats, nuts, dried fruits, and nut butter.\n4. Roast chickpeas in the oven with olive oil and spices for a crunchy and high-protein snack.\n5. Keep sliced fruits and veggies with hummus or homemade dip on hand for a quick and nutritious snack.\nReplacing processed snacks with whole food options can improve your nutrient intake and support a healthier lifestyle.",
+        "most_similar_instructions": {
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.31999999999999995,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.15384615384615383,
+            "Can you suggest a plan for": 0.14285714285714288,
+            "Generate an appropriate subjective title for the following email:": 0.11764705882352941,
+            "Can you give me some tips on improving my sleep schedule?": 0.10526315789473685,
+            "How can I incorporate more fruits and vegetables into my diet?": 0.0,
+            "can you suggest few food items with high content of": 0.0,
+            "Can you suggest few techniques of": 0.0,
+            "Can you suggest few easy workouts of": 0.0,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.0
+        },
+        "avg_similarity_score": 0.07632850122014208
+    },
+    {
+        "instruction": "Can you provide some guidance on intermittent fasting?",
+        "input": "fasting windows",
+        "output": "Intermittent fasting is an eating pattern that involves cycling between periods of eating and fasting. Here are some tips to get started:\n1. Choose a fasting schedule that works for you, such as 16:8 (fast for 16 hours, eat within an 8-hour window) or 5:2 (eat normally for 5 days, restrict calories to 500-600 for 2 days).\n2. During fasting windows, stick to water, unsweetened tea or coffee, and bone broth to stay hydrated and keep hunger at bay.\n3. Be mindful of your food choices during eating periods and focus on nutrient-dense whole foods.\n4. Start slow and listen to your body, making adjustments as needed to find a sustainable and healthy approach to intermittent fasting.\nIntermittent fasting has been shown to have numerous health benefits, including weight loss, improved insulin sensitivity, and reduced inflammation.",
+        "most_similar_instructions": {
+            "Can you give me some tips on improving my sleep schedule?": 0.4210526315789474,
+            "Can you suggest few techniques of": 0.28571428571428575,
+            "Can you suggest a plan for": 0.28571428571428575,
+            "Can you suggest few easy workouts of": 0.26666666666666666,
+            "can you suggest few food items with high content of": 0.22222222222222224,
+            "What are some healthy substitutes for processed snacks?": 0.125,
+            "How can I incorporate more fruits and vegetables into my diet?": 0.10526315789473685,
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.07999999999999999,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.07407407407407407,
+            "Generate an appropriate subjective title for the following email:": 0.0
+        },
+        "avg_similarity_score": 0.15547561032210158
+    },
+    {
+        "instruction": "How can I incorporate more strength training into my fitness routine?",
+        "input": "home workouts",
+        "output": "It's possible to include strength training in your home workouts with these tips:\n1. Use your body weight for exercises like push-ups, squats, and lunges.\n2. Invest in a set of dumbbells or resistance bands for added resistance.\n3. Get creative with household items like water bottles or cans for makeshift weights.\n4. Use the stairs for step-ups, tricep dips, or single-leg calf raises.\n5. Follow along with online workout videos or app-guided workouts that focus on strength training.\nRemember to incorporate a variety of exercises that target all major muscle groups for overall strength and balance.",
+        "most_similar_instructions": {
+            "How can I incorporate more fruits and vegetables into my diet?": 0.6363636363636364,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.39999999999999997,
+            "Can you give me some tips on improving my sleep schedule?": 0.18181818181818182,
+            "Can you suggest few techniques of": 0.11764705882352942,
+            "Can you suggest a plan for": 0.11764705882352942,
+            "Can you suggest few easy workouts of": 0.1111111111111111,
+            "Can you provide some guidance on intermittent fasting?": 0.10526315789473685,
+            "can you suggest few food items with high content of": 0.09523809523809525,
+            "What are some healthy substitutes for processed snacks?": 0.0,
+            "Generate an appropriate subjective title for the following email:": 0.0
+        },
+        "avg_similarity_score": 0.13577602308252462
+    },
+    {
+        "instruction": "Can you recommend some healthy recipes for meal prep?",
+        "input": "chicken",
+        "output": "Sure! Here are some healthy chicken recipes that are perfect for meal prep:\n1. Grilled chicken and vegetable skewers served with whole grain couscous and a side of roasted sweet potato wedges.\n2. Slow-cooked chicken chili with black beans, corn, and crushed tomatoes, served with brown rice and a green salad.\n3. Sheet pan chicken fajitas with peppers, onions, and a side of refried beans and whole grain tortillas.\n4. Chicken quinoa bowls with roasted vegetables, avocado, and a drizzle of homemade tahini dressing.\n5. Baked chicken breasts topped with salsa and served with quinoa, roasted broccoli, and a side of marinated beets.\nMeal prepping these recipes will save you time and help you make healthier choices throughout the week.",
+        "most_similar_instructions": {
+            "Can you suggest a plan for": 0.4,
+            "Can you provide some guidance on intermittent fasting?": 0.35294117647058826,
+            "What are some healthy substitutes for processed snacks?": 0.35294117647058826,
+            "Can you give me some tips on improving my sleep schedule?": 0.3,
+            "Can you suggest few techniques of": 0.26666666666666666,
+            "Can you suggest few easy workouts of": 0.25,
+            "can you suggest few food items with high content of": 0.2105263157894737,
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.15384615384615383,
+            "Generate an appropriate subjective title for the following email:": 0.1111111111111111,
+            "How can I incorporate more strength training into my fitness routine?": 0.09999999999999999
+        },
+        "avg_similarity_score": 0.19596680327551624
+    },
+    {
+        "instruction": "How can I reduce stress and anxiety in my daily life?",
+        "input": "meditation",
+        "output": "Meditation is a powerful tool for managing stress and anxiety. Here's how to get started:\n1. Find a quiet and comfortable place to sit or lie down.\n2. Start with a few deep breaths, focusing on the sensation of the breath entering and leaving your body.\n3. Choose a form of meditation that resonates with you, such as guided meditation, mindfulness meditation, or body scan meditation.\n4. Set a timer for 5-10 minutes and allow yourself to fully immerse in the present moment.\n5. Be patient and compassionate with yourself, as it takes practice to quiet the mind and let go of worries and distractions.\nIncorporating meditation into your daily routine can bring a sense of calm and balance to your mind and body.",
+        "most_similar_instructions": {
+            "How can I incorporate more fruits and vegetables into my diet?": 0.45454545454545453,
+            "How can I incorporate more strength training into my fitness routine?": 0.36363636363636365,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.3333333333333333,
+            "Can you give me some tips on improving my sleep schedule?": 0.18181818181818182,
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.14285714285714285,
+            "Can you suggest few techniques of": 0.11764705882352942,
+            "Can you suggest a plan for": 0.11764705882352942,
+            "Can you suggest few easy workouts of": 0.1111111111111111,
+            "Can you provide some guidance on intermittent fasting?": 0.10526315789473685,
+            "Can you recommend some healthy recipes for meal prep?": 0.09999999999999999
+        },
+        "avg_similarity_score": 0.1461374983548572
+    },
+    {
+        "instruction": "What are some healthy breakfast options for a busy morning?",
+        "input": "time crunch",
+        "output": "Here are some healthy and quick breakfast options for a busy morning:\n1. Overnight oats: Mix rolled oats, milk or yogurt, and your choice of add-ins like chia seeds, fruit, or nut butter in a jar. Refrigerate overnight and grab it on your way out.\n2. Avocado toast: Mash avocado on whole grain toast and top with your favorite toppings like eggs, smoked salmon, or tomatoes.\n3. Fruit and yogurt parfait: Layer Greek yogurt, fresh berries, and granola for a nutritious and portable breakfast.\n4. Smoothie: Blend together spinach, banana, peanut butter, and almond milk for a protein and fiber-packed breakfast on the go.\nWith a little planning and these simple recipes, you can start your day off with a healthy and satisfying breakfast even on a time crunch.",
+        "most_similar_instructions": {
+            "What are some healthy substitutes for processed snacks?": 0.5555555555555556,
+            "Can you recommend some healthy recipes for meal prep?": 0.3157894736842105,
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.29629629629629634,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.21428571428571427,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.13793103448275862,
+            "Can you suggest a plan for": 0.125,
+            "Can you provide some guidance on intermittent fasting?": 0.11111111111111112,
+            "Generate an appropriate subjective title for the following email:": 0.10526315789473685,
+            "Can you give me some tips on improving my sleep schedule?": 0.09523809523809525,
+            "How can I reduce stress and anxiety in my daily life?": 0.0
+        },
+        "avg_similarity_score": 0.12227940240927991
+    },
+    {
+        "instruction": "Can you suggest some low-impact exercises for people with joint pain?",
+        "input": "knee",
+        "output": "Low-impact exercises are generally easier on the joints and can help manage pain and stiffness. Here are some examples:\n1. Cycling on a stationary bike or outdoors on flat terrain.\n2. Swimming or water aerobics, which reduce stress on the joints and provide resistance for a full-body workout.\n3. Yoga or pilates, which focus on slow and controlled movements that promote flexibility, balance, and strength without putting too much pressure on the joints.\n4. Resistance training using resistance bands or light weights to strengthen muscles and improve joint stability.\nRemember to listen to your body and modify exercises as needed to prevent further discomfort or injury.",
+        "most_similar_instructions": {
+            "Can you suggest a plan for": 0.4444444444444444,
+            "Can you recommend some healthy recipes for meal prep?": 0.380952380952381,
+            "can you suggest few food items with high content of": 0.3636363636363636,
+            "Can you suggest few techniques of": 0.3333333333333333,
+            "Can you suggest few easy workouts of": 0.3157894736842105,
+            "Can you provide some guidance on intermittent fasting?": 0.3,
+            "Can you give me some tips on improving my sleep schedule?": 0.2608695652173913,
+            "What are some healthy substitutes for processed snacks?": 0.2,
+            "What are some healthy breakfast options for a busy morning?": 0.1818181818181818,
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.13793103448275862
+        },
+        "avg_similarity_score": 0.2003567784543221
+    },
+    {
+        "instruction": "How does regular physical activity benefit mental health?",
+        "input": "exercise routine",
+        "output": "Regular physical activity has numerous benefits for mental health, including:\n1. Boosts mood: Physical activity stimulates the production of endorphins, also known as the \"feel-good\" hormones, which help reduce feelings of stress, anxiety, and depression.\n2. Improves sleep: Exercise can improve sleep quality, duration, and reduce sleep disturbances.\n3. Reduces stress: Physical activity helps reduce levels of cortisol, the \"stress\" hormone, and increases levels of neurotransmitters like dopamine and serotonin, which play a role in mood regulation.\n4. Increases self-esteem: Engaging in regular exercise can boost self-confidence and self-esteem as it allows us to set and achieve goals, challenge ourselves, and see progress over time.\nRemember to find activities that you enjoy and make them a part of your daily routine for optimal mental health benefits.",
+        "most_similar_instructions": {
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.2962962962962963,
+            "How can I reduce stress and anxiety in my daily life?": 0.10526315789473685,
+            "How can I incorporate more strength training into my fitness routine?": 0.10526315789473685,
+            "How can I incorporate more fruits and vegetables into my diet?": 0.10526315789473685,
+            "Can you suggest some low-impact exercises for people with joint pain?": 0.0,
+            "Can you suggest few easy workouts of": 0.0,
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.0,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.0,
+            "Generate an appropriate subjective title for the following email:": 0.0,
+            "Can you suggest a plan for": 0.0
+        },
+        "avg_similarity_score": 0.034004764998917046
+    },
+    {
+        "instruction": "What are the best core exercises for strengthening the abdominal muscles?",
+        "input": "abs",
+        "output": "Some of the best core exercises for strengthening the abdominal muscles include:\n1. Plank variations: Planks engage multiple muscles in the core, including the rectus abdominis, transverse abdominis, and obliques. Try side planks, forearm planks, and high planks to target different areas of the core.\n2. Bicycle crunches: This exercise targets the rectus abdominis and obliques. Lie on your back with your hands behind your head, and bring your knees towards your chest while rotating your upper body to touch your left elbow to your right knee. Alternate sides to simulate a bicycling motion.\n3. L-sits: This exercise targets the lower abs. Sit on the floor with your legs straight out in front of you and your hands on the ground beside your hips. Lift your legs off the ground and hold them straight out in front of you, forming an L-shape with your body.\nRemember to perform these exercises with proper form and gradually increase the intensity as you get stronger.",
+        "most_similar_instructions": {
+            "What are some healthy substitutes for processed snacks?": 0.3157894736842105,
+            "What are some healthy breakfast options for a busy morning?": 0.28571428571428564,
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.21428571428571427,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.20689655172413793,
+            "Generate an appropriate subjective title for the following email:": 0.19999999999999998,
+            "Can you suggest some low-impact exercises for people with joint pain?": 0.17391304347826086,
+            "Can you suggest a plan for": 0.11764705882352942,
+            "Can you recommend some healthy recipes for meal prep?": 0.09999999999999999,
+            "How does regular physical activity benefit mental health?": 0.0,
+            "Can you suggest few easy workouts of": 0.0
+        },
+        "avg_similarity_score": 0.08496032251105992
+    },
+    {
+        "instruction": "How can I improve my flexibility and range of motion?",
+        "input": "stretching",
+        "output": "To improve flexibility and range of motion, try incorporating these stretching techniques into your routine:\n1. Dynamic stretching: This involves using slow and controlled movements that mimic the activity you'll be doing. For example, leg swings before a run or arm crossovers before a swim.\n2. Static stretching: Hold stretches for 30 seconds without bouncing. This can help increase blood flow to the muscles, reduce muscle tension, and improve range of motion.\n3. Foam rolling: Using a foam roller can help release muscle tension and improve flexibility by working out any knots or adhesions in the muscles.\nRemember to always warm up before stretching and listen to your body to prevent overstretching and potential injury.",
+        "most_similar_instructions": {
+            "How can I reduce stress and anxiety in my daily life?": 0.380952380952381,
+            "How can I incorporate more strength training into my fitness routine?": 0.380952380952381,
+            "How can I incorporate more fruits and vegetables into my diet?": 0.380952380952381,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.27586206896551724,
+            "Can you suggest few techniques of": 0.25,
+            "Can you suggest few easy workouts of": 0.23529411764705882,
+            "can you suggest few food items with high content of": 0.20000000000000004,
+            "Can you give me some tips on improving my sleep schedule?": 0.1904761904761905,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.14285714285714285,
+            "Can you suggest a plan for": 0.125
+        },
+        "avg_similarity_score": 0.15274076039515883
+    },
+    {
+        "instruction": "What are the best exercises for improving balance and preventing falls?",
+        "input": "elderly",
+        "output": "As we age, our balance and coordination may decline, increasing the risk of falls and injuries. Here are some exercises to improve balance and prevent falls, especially in the elderly:\n1. Tai chi: This low-impact exercise combines slow, controlled movements with deep breathing to improve balance, flexibility, and muscle strength.\n2. Heel-to-toe walk: This exercise can be done indoors or outdoors and involves walking in a straight line, placing one foot directly in front of the other. You can use a line on the floor, or have someone guide you for support and safety.\n3. Single-leg balance: Hold onto a sturdy object for support and balance on one foot, holding for 30 seconds. Challenge yourself by closing your eyes or moving your arms.\n4. Chair dips: This exercise targets the upper body and can help improve stability and strength. Sit on a sturdy chair with your hands gripping the edge next to your hips. Slowly lower your body off the chair, bending your elbows, and then push yourself back up.\nRemember to consult with a doctor before starting a new exercise routine, especially if you have any medical conditions or previous falls.",
+        "most_similar_instructions": {
+            "What are the best core exercises for strengthening the abdominal muscles?": 0.5454545454545454,
+            "What are some healthy substitutes for processed snacks?": 0.3157894736842105,
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.2857142857142857,
+            "What are some healthy breakfast options for a busy morning?": 0.28571428571428564,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.20689655172413793,
+            "Can you suggest some low-impact exercises for people with joint pain?": 0.17391304347826086,
+            "Can you suggest a plan for": 0.11764705882352942,
+            "Can you recommend some healthy recipes for meal prep?": 0.09999999999999999,
+            "Generate an appropriate subjective title for the following email:": 0.09999999999999999,
+            "How can I improve my flexibility and range of motion?": 0.09523809523809525
+        },
+        "avg_similarity_score": 0.12217910853453763
+    },
+    {
+        "instruction": "how can i track my food and water intake throughout the day to stay on top of my nutrition",
+        "input": "One way to track your food and water intake throughout the day is by keeping a food diary or using a nutrition tracking app. For instance, MyFitnessPal is a popular app that allows you to easily log your meals and drinks.",
+        "output": "Tracking your food and water intake can be a powerful tool for staying on top of your nutrition goals. Here's how you can use a food diary or nutrition tracking app to do just that:\n\n1. Set Your Goals: Determine your daily calorie and nutrient intake goals based on your age, gender, weight, and activity level. This will help you stay on track with your nutrition without restricting too much or eating too little.\n\n2. Keep Record: Use a food diary or nutrition tracking app to log all your meals and drinks throughout the day. This way, you can easily keep track of your calorie and nutrient intake, as well as identify any unhealthy eating patterns.\n\n3. Be Accurate: Be as accurate as possible with your portion sizes and ingredients. This will help you get a true representation of your nutrient intake and prevent over or underestimating your calorie intake.\n\n4. Plan Ahead: If you know you have a busy day ahead, plan and pack your meals and snacks accordingly. This will help you stay on track and avoid making impulsive unhealthy food choices due to lack of time.\n\n5. Stay Hydrated: Use your food diary or nutrition tracking app to also log your water intake. Aim to drink at least 8 glasses of water a day to stay hydrated and support your overall health.\n\n6. Track Your Progress: Regularly review your food and water intake in your diary or app to see if you're meeting your goals. This will help you make any necessary changes and stay motivated on your health and fitness journey.\n\n7. Get Creative: Use your food diary or nutrition tracking app to discover new and healthy recipes and meal ideas. This can help you add variety to your diet and ensure you're getting a good balance of nutrients.\n\nRemember, tracking your food and water intake is a helpful tool, but it's important to also listen to your body's hunger and fullness cues and adjust accordingly. Don't let tracking become obsessive or restrict your eating habits. Use it as a guide to help you make healthier choices and reach your nutrition goals.",
+        "most_similar_instructions": {
+            "How can I improve my flexibility and range of motion?": 0.41379310344827586,
+            "How can I incorporate more fruits and vegetables into my diet?": 0.3333333333333333,
+            "How can I reduce stress and anxiety in my daily life?": 0.3333333333333333,
+            "How can I incorporate more strength training into my fitness routine?": 0.26666666666666666,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.2631578947368421,
+            "can you suggest few food items with high content of": 0.20689655172413793,
+            "Can you give me some tips on improving my sleep schedule?": 0.19999999999999998,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.16216216216216214,
+            "Can you suggest few techniques of": 0.16,
+            "Can you suggest few easy workouts of": 0.15384615384615385
+        },
+        "avg_similarity_score": 0.14507607192051897
+    },
+    {
+        "instruction": "I need to find an affordable gym membership that fits my schedule and needs",
+        "input": "",
+        "output": "Finding an affordable gym membership that works for your schedule and fitness needs is easier than you think. Here are some tips to help you find the right gym membership:\n\n1. Do Your Research: Start by researching different gym options in your area. Look at reviews, amenities, class schedules, and membership prices to get an idea of what each gym offers.\n\n2. Consider Location: Choose a gym that is convenient for you to access. If it's too far, it's less likely you'll go regularly, and if it's too close to your workplace or home, it may become an inconvenience. Find a balance that works for you.\n\n3. Check Trial Offers: Many gyms offer free trial passes or discounted memberships for first-time users. Take advantage of these offers to see if the gym is a good fit for you.\n\n4. Negotiate Membership Prices: Don't be afraid to ask for a discount or inquire about any ongoing promotions or specials. Many gyms are willing to work with you to find a membership price that meets your budget.\n\n5. Know Your Needs: Consider what you need from a gym membership. Do you want access to all amenities, including classes and personal training sessions? Or are you looking for a basic membership with access to cardio and weight machines?\n\n6. Check the Schedule: Look at the gym's class schedule and operating hours to make sure it aligns with your schedule. If possible, visit the gym during your preferred workout time to see how busy it is and if equipment is available.\n\n7. Read the Fine Print: Before signing a contract, make sure you understand all the terms and conditions of your membership. Look out for any hidden fees or clauses that may make it difficult to cancel your membership.\n\nRemember, finding the perfect gym membership takes time and research, but it's worth it in the end for your health and fitness goals. Don't be afraid to ask questions and negotiate to find the best membership for you.",
+        "most_similar_instructions": {
+            "How can I improve my flexibility and range of motion?": 0.25,
+            "how can i track my food and water intake throughout the day to stay on top of my nutrition": 0.18181818181818182,
+            "how can i incorporate regular movement and physical activity into my day even if i have a busy schedule": 0.18181818181818182,
+            "How can I reduce stress and anxiety in my daily life?": 0.16,
+            "How can I incorporate more strength training into my fitness routine?": 0.16,
+            "How can I incorporate more fruits and vegetables into my diet?": 0.16,
+            "Can you give me some tips on improving my sleep schedule?": 0.16,
+            "Generate an appropriate subjective title for the following email:": 0.08695652173913043,
+            "What are the best exercises for improving balance and preventing falls?": 0.08,
+            "what are some effective strategies for managing and reducing stress related symptoms such as anxiety or insomnia?": 0.06451612903225808
+        },
+        "avg_similarity_score": 0.06728734845251097
+    },
+    {
+        "instruction": "Can you suggest a quick morning routine for energy and focus?",
+        "input": "morning routine",
+        "output": "Absolutely! Here's a quick and effective morning routine for energy and focus:\n1. Start with hydration: Drink a glass of water as soon as you wake up to rehydrate and jumpstart your metabolism.\n2. Move your body: Do 10-15 minutes of light stretching, yoga, or a quick workout to get your blood flowing and boost your energy.\n3. Practice mindfulness: Spend a few minutes in quiet meditation or deep breathing to calm the mind and increase focus.\n4. Plan your day: Take a few minutes to write down your top priorities and goals for the day to help you stay focused and on track.\nRemember to customize this routine to fit your personal preferences and needs, and try to make it a consistent part of your morning routine for best results.",
+        "most_similar_instructions": {
+            "Can you suggest a plan for": 0.5882352941176471,
+            "Can you suggest few techniques of": 0.3529411764705882,
+            "Can you suggest some low-impact exercises for people with joint pain?": 0.34782608695652173,
+            "Can you suggest few easy workouts of": 0.33333333333333326,
+            "Can you recommend some healthy recipes for meal prep?": 0.3,
+            "can you suggest few food items with high content of": 0.28571428571428564,
+            "Can you provide some guidance on intermittent fasting?": 0.2105263157894737,
+            "How can I improve my flexibility and range of motion?": 0.1904761904761905,
+            "What are some healthy breakfast options for a busy morning?": 0.1904761904761905,
+            "How can I incorporate more strength training into my fitness routine?": 0.18181818181818182
+        },
+        "avg_similarity_score": 0.19301028646814733
+    },
+    {
+        "instruction": "Can you provide tips on how to stay motivated to exercise regularly?",
+        "input": "exercise motivation",
+        "output": "Absolutely! Here are some tips to help you stay motivated to exercise regularly:\n1. Set realistic goals: Make sure your fitness goals are achievable and specific so that you can track your progress and feel motivated to keep going.\n2. Find a workout buddy: Having an accountability partner can make exercising more fun and help you stick to your routine.\n3. Mix up your workout routine: Incorporate different types of exercises and activities to keep your workouts interesting and challenging.\n4. Reward yourself: Celebrate your achievements, whether it's reaching a new milestone or sticking to your routine for a certain number of days.\nRemember to stay consistent and make exercise a priority, but also listen to your body and take breaks when needed for rest and recovery.",
+        "most_similar_instructions": {
+            "Can you provide some guidance on intermittent fasting?": 0.4,
+            "Can you give me some tips on improving my sleep schedule?": 0.34782608695652173,
+            "Can you suggest a plan for": 0.2222222222222222,
+            "Can you suggest few techniques of": 0.2222222222222222,
+            "Can you suggest few easy workouts of": 0.2105263157894737,
+            "how can i track my food and water intake throughout the day to stay on top of my nutrition": 0.1935483870967742,
+            "Can you recommend some healthy recipes for meal prep?": 0.1904761904761905,
+            "can you suggest few food items with high content of": 0.1818181818181818,
+            "Can you suggest a quick morning routine for energy and focus?": 0.17391304347826086,
+            "Can you suggest some low-impact exercises for people with joint pain?": 0.16666666666666666
+        },
+        "avg_similarity_score": 0.11609748715233323
+    },
+    {
+        "instruction": "Can you suggest a healthy and satisfying meal plan for a week?",
+        "input": "meal plan",
+        "output": "Certainly! Here's a sample healthy and satisfying meal plan for a week:\nMonday:\n- Breakfast: Overnight oats with chia seeds, almond milk, and mixed berries\n- Lunch: Quinoa and black bean salad with vegetables and avocado\n- Dinner: Baked salmon with roasted sweet potatoes and steamed green beans\nTuesday:\n- Breakfast: Avocado toast with scrambled eggs and sliced tomatoes\n- Lunch: Whole wheat wrap with hummus, grilled chicken, and vegetables\n- Dinner: Vegetable stir-fry with tofu and brown rice\nWednesday:\n- Breakfast: Greek yogurt with granola and fresh fruit\n- Lunch: Mixed greens salad with grilled shrimp, beans, and corn\n- Dinner: Grilled chicken with roasted vegetables (bell peppers, zucchini, and onions)\nThursday:\n- Breakfast: Whole wheat toast with almond butter and sliced banana\n- Lunch: Quinoa and vegetable soup\n- Dinner: Spaghetti squash with marinara sauce and turkey meatballs\nFriday:\n- Breakfast: Veggie and egg scramble with whole wheat toast\n- Lunch: White bean and vegetable wrap with light ranch dressing\n- Dinner: Grilled pork chop with Brussels sprouts and brown rice\nSaturday:\n- Breakfast: Protein smoothie with spinach, banana, and almond milk\n- Lunch: Quinoa and black bean stuffed peppers\n- Dinner: Grilled fish tacos with avocado and mango salsa\nSunday:\n- Breakfast: Whole wheat pancakes with fresh berries and maple syrup\n- Lunch: Lentil and vegetable stew\n- Dinner: Baked chicken with roasted root vegetables (carrots, parsnips, and sweet potatoes)\nThis meal plan provides a balance of macronutrients, essential vitamins and minerals, and plenty of fiber to keep you satisfied and nourished throughout the week. Feel free to swap out ingredients or meals to fit your preferences and dietary restrictions.",
+        "most_similar_instructions": {
+            "Can you suggest a plan for": 0.6666666666666666,
+            "Can you suggest a quick morning routine for energy and focus?": 0.43478260869565216,
+            "Can you recommend some healthy recipes for meal prep?": 0.380952380952381,
+            "Can you suggest few techniques of": 0.3333333333333333,
+            "Can you suggest some low-impact exercises for people with joint pain?": 0.3333333333333333,
+            "Can you suggest few easy workouts of": 0.3157894736842105,
+            "What are some healthy breakfast options for a busy morning?": 0.2727272727272727,
+            "can you suggest few food items with high content of": 0.2727272727272727,
+            "Can you provide some guidance on intermittent fasting?": 0.2,
+            "are there any specific strategies for maintaining a healthy cardiovascular system and reducing the risk of heart disease?": 0.2
+        },
+        "avg_similarity_score": 0.20404281618542258
+    },
+    {
+        "instruction": "Can you generate some healthy meal ideas for",
+        "input": "dinners",
+        "output": "Sure! Here are three healthy dinner ideas that you can try:\n\n1. Baked Salmon with Roasted Vegetables and Quinoa: Season a salmon fillet with lemon juice, herbs, and spices. Bake in the oven at 400\u00b0F for 15-20 minutes. Serve with roasted vegetables (such as bell peppers, broccoli, and onion) and quinoa for a nutritious and filling meal.\n\n2. Grilled Chicken Salad: Marinate chicken breasts in a mixture of olive oil, lemon juice, garlic, and herbs. Grill until cooked through and serve on a bed of mixed greens, cherry tomatoes, cucumbers, and sliced avocado for a light and fresh dinner.\n\n3. Vegetable Stir-Fry with Brown Rice: Heat a tablespoon of sesame oil in a pan and add in your choice of vegetables (such as bell peppers, bok choy, carrots, and mushrooms). Stir-fry until tender, and add in a sauce made of soy sauce, ginger, and red pepper flakes. Serve with brown rice for a satisfying plant-based meal.\n\nRemember to balance your meals with protein, healthy fats, and complex carbohydrates, and feel free to customize these ideas with your favorite vegetables and flavors!",
+        "most_similar_instructions": {
+            "Can you recommend some healthy recipes for meal prep?": 0.5882352941176471,
+            "Can you suggest a healthy and satisfying meal plan for a week?": 0.5,
+            "Can you suggest a plan for": 0.42857142857142855,
+            "Can you suggest some low-impact exercises for people with joint pain?": 0.4,
+            "Can you provide some guidance on intermittent fasting?": 0.375,
+            "What are some healthy substitutes for processed snacks?": 0.375,
+            "What are some healthy breakfast options for a busy morning?": 0.33333333333333326,
+            "Can you give me some tips on improving my sleep schedule?": 0.3157894736842105,
+            "Can you suggest a quick morning routine for energy and focus?": 0.3157894736842105,
+            "Can you suggest few techniques of": 0.28571428571428575
+        },
+        "avg_similarity_score": 0.2171894230110031
+    },
+    {
+        "instruction": "Could you suggest some exercises to improve",
+        "input": "cardiovascular health",
+        "output": "Absolutely! Here are three exercises that can improve your cardiovascular health:\n\n1. High-Intensity Interval Training (HIIT): HIIT involves short bursts of intense exercise followed by brief periods of rest. It can be done with various activities, such as sprinting, cycling, or jumping rope. This type of workout can increase your heart rate and improve your cardiovascular endurance.\n\n2. Swimming: Swimming is a low-impact aerobic exercise that can be beneficial for your heart health. It can improve your overall cardiovascular endurance, strengthen the muscles of your heart, and help you maintain a healthy weight.\n\n3. Circuit Training: Circuit training involves a series of exercises performed one after the other with minimal rest in between. It can include a combination of cardiovascular activities (like running or cycling) and strength training exercises (like squats or push-ups). This type of workout can improve both your cardiorespiratory fitness and muscular strength.\n\nRemember to consult with a healthcare professional before starting any new exercise routine, and start slowly and gradually increase the intensity and duration of your workouts for optimal results.",
+        "most_similar_instructions": {
+            "Can you suggest some low-impact exercises for people with joint pain?": 0.4210526315789474,
+            "Can you suggest a plan for": 0.30769230769230765,
+            "Can you suggest few techniques of": 0.30769230769230765,
+            "Can you suggest few easy workouts of": 0.2857142857142857,
+            "Can you provide some guidance on intermittent fasting?": 0.26666666666666666,
+            "Can you generate some healthy meal ideas for": 0.26666666666666666,
+            "Can you recommend some healthy recipes for meal prep?": 0.25,
+            "can you suggest few food items with high content of": 0.23529411764705882,
+            "Can you suggest a quick morning routine for energy and focus?": 0.2222222222222222,
+            "Can you give me some tips on improving my sleep schedule?": 0.2222222222222222
+        },
+        "avg_similarity_score": 0.14473643708495545
+    },
+    {
+        "instruction": "Can you provide some tips for",
+        "input": "stress management",
+        "output": "Certainly! Here are five tips for managing stress in your daily life:\n\n1. Practice Deep Breathing or Meditation: Deep breathing can help calm your mind and relax your body. You can also try meditation, which involves focusing on your breath and being present in the moment.\n\n2. Engage in Physical Activity: Regular physical activity can help reduce stress and tension in your body. Try going for a walk, jog, or bike ride, or find an activity you enjoy, like dancing or playing a sport.\n\n3. Get Enough Quality Sleep: Lack of sleep can increase stress levels, so it's essential to prioritize getting enough quality sleep each night. Aim for 7-9 hours of sleep and try to establish a regular sleep schedule.\n\n4. Spend Time Outdoors: Spending time in nature can be soothing and reduce stress levels. Try going for a hike, sitting in a park, or simply taking a walk around your neighborhood.\n\n5. Practice Self-Care: Carve out time for activities that bring you joy and help you relax, such as reading, listening to music, or taking a bath. Self-care is essential for managing stress and maintaining your overall well-being.\n\nRemember to listen to your body and your needs, and don't hesitate to seek support from loved ones or a mental health professional if you're feeling overwhelmed or struggling with stress management.",
+        "most_similar_instructions": {
+            "Can you provide some guidance on intermittent fasting?": 0.5714285714285715,
+            "Can you generate some healthy meal ideas for": 0.5714285714285715,
+            "Can you recommend some healthy recipes for meal prep?": 0.5333333333333333,
+            "Can you suggest a plan for": 0.5,
+            "Can you give me some tips on improving my sleep schedule?": 0.4705882352941177,
+            "Can you suggest some low-impact exercises for people with joint pain?": 0.4444444444444444,
+            "Can you provide tips on how to stay motivated to exercise regularly?": 0.4444444444444444,
+            "Can you suggest a quick morning routine for energy and focus?": 0.3529411764705882,
+            "Can you suggest a healthy and satisfying meal plan for a week?": 0.3333333333333333,
+            "Can you suggest few techniques of": 0.3333333333333333
+        },
+        "avg_similarity_score": 0.24897204651283494
+    },
+    {
+        "instruction": "Could you give some suggestions for",
+        "input": "a healthy breakfast",
+        "output": "Of course! Here are three suggestions for a nutritious and delicious breakfast:\n\n1. Overnight Oats: Combine old-fashioned rolled oats, milk (or your favorite plant-based milk), Greek yogurt, chia seeds, and your choice of flavorings (like fruit, nuts, or spices) in a jar and refrigerate overnight. In the morning, just grab and go for a balanced and convenient breakfast!\n\n2. Avocado Toast: Toast a slice of whole-grain bread and top with mashed avocado, a drizzle of olive oil, and a sprinkle of salt and pepper. For some extra protein, add a poached or fried egg on top.\n\n3. Veggie Omelette: Whisk two eggs (or an egg and two egg whites) with a splash of milk, and pour into a heated and greased pan. Layer in your favorite vegetables (such as spinach, bell peppers, and mushrooms), and cook until the eggs are set. Fold in half, and serve with a whole-grain English muffin for a hearty and nutritious breakfast.\n\nRemember to balance your breakfast with protein, healthy fats, and complex carbohydrates, and don't forget to hydrate with water or your favorite beverage to start your day off on the right foot!",
+        "most_similar_instructions": {
+            "Can you provide some tips for": 0.5,
+            "Could you suggest some exercises to improve": 0.4615384615384615,
+            "Can you generate some healthy meal ideas for": 0.42857142857142855,
+            "Can you recommend some healthy recipes for meal prep?": 0.4,
+            "Can you give me some tips on improving my sleep schedule?": 0.3529411764705882,
+            "Can you suggest a plan for": 0.3333333333333333,
+            "Can you suggest some low-impact exercises for people with joint pain?": 0.3333333333333333,
+            "Can you provide some guidance on intermittent fasting?": 0.28571428571428575,
+            "What are some healthy substitutes for processed snacks?": 0.28571428571428575,
+            "What are some healthy breakfast options for a busy morning?": 0.25
+        },
+        "avg_similarity_score": 0.17570534679869718
+    },
+    {
+        "instruction": "Can you suggest some outdoor activities for",
+        "input": "family bonding",
+        "output": "Sure! Here are three outdoor activities you can do with your family to bond and have fun:\n\n1. Hiking: Find a local trail or nature reserve and take a hike with your family. Enjoy the beautiful scenery, get some exercise, and bond with your loved ones over a shared experience.\n\n2. Picnic in the Park: Pack a basket with some delicious food and drinks and head to a nearby park for a picnic. Bring along some outdoor games or activities to enjoy together, like frisbee or a football.\n\n3. Bike Ride: Rent or borrow bikes and go for a scenic bike ride with your family. This is a great way to explore your community and spend time together while being active.\n\nRemember to stay safe and follow any guidelines or regulations in your area when participating in outdoor activities with your family. Have fun and enjoy the quality time together!",
+        "most_similar_instructions": {
+            "Can you provide some tips for": 0.6153846153846153,
+            "Can you suggest a plan for": 0.6153846153846153,
+            "Can you generate some healthy meal ideas for": 0.5333333333333333,
+            "Can you suggest some low-impact exercises for people with joint pain?": 0.5263157894736842,
+            "Can you recommend some healthy recipes for meal prep?": 0.5,
+            "Could you give some suggestions for": 0.4615384615384615,
+            "Can you suggest few techniques of": 0.4615384615384615,
+            "Can you suggest a quick morning routine for energy and focus?": 0.4444444444444444,
+            "Could you suggest some exercises to improve": 0.42857142857142855,
+            "Can you suggest few easy workouts of": 0.42857142857142855
+        },
+        "avg_similarity_score": 0.27205200821349823
+    },
+    {
+        "instruction": "Could you suggest some strategies for",
+        "input": "weight loss",
+        "output": "Of course! Here are three strategies that can help with weight loss:\n\n1. Create a Calorie Deficit: To lose weight, you'll need to consume fewer calories than you burn. Use an online calculator to determine your daily calorie needs and create a calorie deficit of 500-1000 calories per day to lose one to two pounds per week.\n\n2. Focus on Whole Foods: Instead of counting calories, focus on eating whole, nutrient-dense foods like fruits, vegetables, lean protein, and whole grains. These foods will keep you full and satisfied while supporting your weight loss goals.\n\n3. Incorporate Strength Training: Strength training builds muscle mass, which increases your metabolism and helps you burn more calories throughout the day. Aim for two to three strength training sessions per week, focusing on all major muscle groups.\n\nRemember that weight loss is a journey and not a quick fix. Focus on making sustainable lifestyle changes and consult with a registered dietitian or healthcare professional for individualized advice and support.",
+        "most_similar_instructions": {
+            "Could you give some suggestions for": 0.6666666666666666,
+            "Can you suggest some outdoor activities for": 0.6153846153846153,
+            "Could you suggest some exercises to improve": 0.6153846153846153,
+            "Can you provide some tips for": 0.5,
+            "Can you suggest a plan for": 0.5,
+            "Can you suggest some low-impact exercises for people with joint pain?": 0.4444444444444444,
+            "Can you generate some healthy meal ideas for": 0.42857142857142855,
+            "Can you recommend some healthy recipes for meal prep?": 0.4,
+            "Can you suggest a quick morning routine for energy and focus?": 0.3529411764705882,
+            "Can you suggest a healthy and satisfying meal plan for a week?": 0.3333333333333333
+        },
+        "avg_similarity_score": 0.24099216888539138
+    },
+    {
+        "instruction": "Can you generate a list of superfoods for",
+        "input": "optimal health",
+        "output": "Absolutely! Here are five superfoods that offer a range of health benefits and can be incorporated into your diet for optimal health:\n\n1. Berries: Blueberries, strawberries, raspberries, and blackberries are packed with antioxidants, vitamins, and minerals, making them one of the most nutritious fruits. They are also low in calories and carbohydrates, making them a great option for anyone watching their weight.\n\n2. Salmon: Fatty fish like salmon is rich in omega-3 fatty acids, which are essential for heart health and support brain function. It also provides a good source of protein and is low in saturated fat, making it a heart-healthy choice.\n\n3. Leafy Greens: Dark, leafy greens like kale, spinach, and arugula are incredibly nutrient-dense and provide a significant amount of vitamins, minerals, and antioxidants. They are also low in calories and carbohydrates, making them an excellent option for anyone looking to add more vegetables to their diet.\n\n4. Avocado: Avocados are packed with heart-healthy monounsaturated fats, vitamins, and minerals. They can help lower cholesterol levels and keep you feeling full and satisfied.\n\n5. Nuts: Nuts like almonds, cashews, and walnuts are a great source of healthy fats, protein, and fiber. They are also rich in antioxidants and can help reduce inflammation and support heart health.\n\nRemember to incorporate a variety of nutrient-dense foods into your diet for optimal health, and consult with a healthcare professional or registered dietitian for personalized advice and support.",
+        "most_similar_instructions": {
+            "Can you suggest a plan for": 0.5714285714285715,
+            "Can you generate some healthy meal ideas for": 0.5,
+            "Can you suggest few techniques of": 0.42857142857142855,
+            "Can you provide some tips for": 0.42857142857142855,
+            "Can you suggest a quick morning routine for energy and focus?": 0.4210526315789474,
+            "Can you suggest a healthy and satisfying meal plan for a week?": 0.4,
+            "Can you suggest few easy workouts of": 0.39999999999999997,
+            "Can you suggest some outdoor activities for": 0.39999999999999997,
+            "Can you recommend some healthy recipes for meal prep?": 0.35294117647058826,
+            "can you suggest few food items with high content of": 0.33333333333333326
+        },
+        "avg_similarity_score": 0.2318567418515819
+    }
+]

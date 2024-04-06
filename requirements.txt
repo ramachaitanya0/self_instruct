@@ -1,0 +1,5 @@
+python-dotenv
+rouge-score
+numpy
+tqdm
+openai==0.28.1
